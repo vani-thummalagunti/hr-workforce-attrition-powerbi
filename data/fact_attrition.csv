@@ -1,0 +1,1471 @@
+EmployeeID,JobRole,OverTime,MonthlyIncome,JobLevel,YearsAtCompany,YearsInCurrentRole,YearsSinceLastPromotion,JobSatisfaction,WorkLifeBalance,Attrition
+EMP0001,Manager,No,14514,4,9,7,3,3,4,Yes
+EMP0002,Healthcare Representative,No,7959,2,2,2,2,3,2,Yes
+EMP0003,Healthcare Representative,No,9979,3,0,0,0,1,3,No
+EMP0004,Laboratory Technician,Yes,2817,1,12,10,5,4,2,Yes
+EMP0005,Manager,Yes,16665,5,3,3,3,2,2,No
+EMP0006,Laboratory Technician,No,2476,1,1,1,1,3,4,Yes
+EMP0007,Laboratory Technician,No,4347,1,7,3,1,3,2,Yes
+EMP0008,Sales Executive,No,6103,3,10,0,2,3,3,No
+EMP0009,Manager,No,13389,5,3,3,0,4,2,No
+EMP0010,Laboratory Technician,No,3246,1,7,6,3,4,3,No
+EMP0011,Sales Representative,No,6174,2,14,9,0,1,4,No
+EMP0012,Manager,No,12985,4,11,7,5,1,2,No
+EMP0013,Laboratory Technician,No,4867,1,2,2,2,4,2,Yes
+EMP0014,Sales Executive,No,8665,2,18,10,7,2,1,Yes
+EMP0015,Manufacturing Director,Yes,15722,4,3,3,3,2,2,No
+EMP0016,Manager,Yes,15995,5,7,7,3,2,4,Yes
+EMP0017,Sales Executive,Yes,8806,3,1,1,1,3,3,No
+EMP0018,Sales Executive,Yes,4672,3,15,0,6,1,3,Yes
+EMP0019,Manager,No,18183,5,11,3,4,4,2,No
+EMP0020,Research Director,Yes,11175,5,9,7,5,3,2,No
+EMP0021,Sales Representative,No,5001,3,8,5,6,2,1,No
+EMP0022,Healthcare Representative,No,4946,3,18,1,0,2,3,No
+EMP0023,Research Director,No,12430,4,4,0,4,2,4,Yes
+EMP0024,Laboratory Technician,No,2443,1,5,5,1,3,2,No
+EMP0025,Manager,No,14250,5,4,4,4,3,4,No
+EMP0026,Healthcare Representative,No,7593,2,16,6,2,3,2,No
+EMP0027,Manager,Yes,13103,5,1,1,1,1,2,Yes
+EMP0028,Sales Executive,No,8629,2,20,8,7,2,2,No
+EMP0029,Sales Representative,No,8091,3,1,1,1,4,1,No
+EMP0030,Healthcare Representative,Yes,6282,2,6,3,2,3,3,No
+EMP0031,Research Director,No,16130,5,11,9,5,2,4,No
+EMP0032,Human Resources,Yes,3554,1,5,1,4,1,3,Yes
+EMP0033,Research Scientist,No,3833,1,2,2,2,1,4,No
+EMP0034,Sales Executive,No,8346,2,13,3,2,1,2,No
+EMP0035,Manager,No,18590,4,5,4,5,2,1,No
+EMP0036,Manager,No,11913,5,1,1,1,4,1,No
+EMP0037,Sales Executive,No,8811,3,7,1,1,1,4,Yes
+EMP0038,Sales Representative,Yes,5364,3,5,3,3,1,1,Yes
+EMP0039,Manager,No,18330,4,7,1,3,3,3,No
+EMP0040,Manager,Yes,12119,4,4,4,4,3,1,No
+EMP0041,Sales Executive,Yes,5420,3,10,2,5,4,2,No
+EMP0042,Sales Representative,No,6370,2,1,1,1,4,3,No
+EMP0043,Manager,Yes,16598,4,19,10,5,1,2,Yes
+EMP0044,Manager,No,16487,5,7,7,0,1,3,No
+EMP0045,Human Resources,Yes,4921,1,17,6,4,1,1,No
+EMP0046,Healthcare Representative,No,6673,3,2,2,2,4,4,Yes
+EMP0047,Manager,No,12863,4,11,6,8,4,1,Yes
+EMP0048,Manager,Yes,16252,4,18,1,4,2,4,No
+EMP0049,Manager,Yes,16314,4,14,4,4,3,4,Yes
+EMP0050,Manager,No,17929,5,11,2,8,4,4,No
+EMP0051,Manager,Yes,12182,4,7,7,3,3,2,Yes
+EMP0052,Healthcare Representative,Yes,7448,2,4,4,4,1,4,Yes
+EMP0053,Manager,Yes,13787,4,5,5,4,2,3,No
+EMP0054,Research Director,No,17036,5,9,8,2,3,3,No
+EMP0055,Research Director,Yes,12153,5,2,0,2,4,3,No
+EMP0056,Research Director,No,19069,4,16,9,1,3,3,No
+EMP0057,Laboratory Technician,No,3541,1,11,1,1,2,3,No
+EMP0058,Research Scientist,No,3360,1,11,6,8,4,4,Yes
+EMP0059,Sales Executive,No,7454,2,5,5,5,1,4,No
+EMP0060,Manager,No,13217,5,12,1,3,1,1,No
+EMP0061,Research Director,No,12294,4,1,1,0,2,4,No
+EMP0062,Manufacturing Director,Yes,12703,5,12,0,5,3,2,Yes
+EMP0063,Manager,No,14673,5,2,2,2,3,4,No
+EMP0064,Manager,No,12369,5,4,3,0,3,3,No
+EMP0065,Research Scientist,No,2224,1,11,10,8,4,2,No
+EMP0066,Manager,No,19885,5,9,8,4,2,4,Yes
+EMP0067,Research Scientist,No,2272,1,5,2,5,1,4,No
+EMP0068,Sales Representative,No,6513,3,8,4,6,1,1,Yes
+EMP0069,Healthcare Representative,No,8618,3,16,9,7,1,3,Yes
+EMP0070,Sales Representative,No,7414,3,15,10,3,3,2,No
+EMP0071,Sales Representative,No,5096,2,13,2,0,3,4,No
+EMP0072,Laboratory Technician,Yes,4681,1,15,8,1,3,1,Yes
+EMP0073,Healthcare Representative,Yes,7363,2,5,1,5,1,1,No
+EMP0074,Healthcare Representative,No,6495,3,10,0,7,1,3,Yes
+EMP0075,Research Director,No,15650,5,11,10,5,1,1,No
+EMP0076,Sales Representative,No,10037,2,10,0,7,4,4,No
+EMP0077,Research Scientist,No,4813,1,9,8,6,1,4,Yes
+EMP0078,Laboratory Technician,Yes,4540,1,8,3,3,4,1,No
+EMP0079,Sales Executive,No,7464,3,19,8,0,2,1,No
+EMP0080,Manager,No,15988,5,10,3,4,2,3,No
+EMP0081,Manager,No,12877,5,10,1,7,3,2,No
+EMP0082,Manufacturing Director,No,17660,4,3,3,3,2,1,No
+EMP0083,Manager,Yes,11335,5,7,7,5,1,2,No
+EMP0084,Manager,No,12215,4,19,9,2,1,4,No
+EMP0085,Laboratory Technician,No,2970,1,0,0,0,1,4,Yes
+EMP0086,Sales Representative,No,6045,3,13,10,5,3,1,No
+EMP0087,Research Scientist,Yes,2577,1,10,10,0,4,2,Yes
+EMP0088,Manufacturing Director,No,17184,5,7,6,2,3,4,No
+EMP0089,Healthcare Representative,No,8027,3,16,3,2,2,2,No
+EMP0090,Sales Representative,No,10419,2,8,2,7,3,2,No
+EMP0091,Laboratory Technician,No,2497,1,1,1,1,4,2,No
+EMP0092,Manager,No,12130,4,16,5,1,4,1,No
+EMP0093,Sales Executive,No,6393,3,6,6,0,2,3,Yes
+EMP0094,Laboratory Technician,No,3118,1,6,4,3,1,2,Yes
+EMP0095,Healthcare Representative,Yes,7437,2,16,7,7,3,4,Yes
+EMP0096,Research Scientist,No,4006,1,3,2,3,4,2,No
+EMP0097,Sales Representative,No,7154,2,19,6,8,4,4,No
+EMP0098,Laboratory Technician,No,3887,1,6,1,1,1,1,Yes
+EMP0099,Sales Executive,No,8984,3,20,6,0,4,3,Yes
+EMP0100,Healthcare Representative,No,5795,3,13,6,5,4,4,No
+EMP0101,Research Scientist,No,2897,1,3,3,3,3,3,No
+EMP0102,Research Scientist,No,3737,1,7,1,5,1,1,No
+EMP0103,Research Director,Yes,12674,4,7,1,3,1,4,Yes
+EMP0104,Laboratory Technician,Yes,4874,1,14,0,7,2,3,Yes
+EMP0105,Healthcare Representative,No,6568,3,0,0,0,2,1,No
+EMP0106,Manager,No,15065,4,7,0,5,1,2,No
+EMP0107,Sales Representative,No,4721,3,12,6,2,4,1,No
+EMP0108,Healthcare Representative,No,4657,3,10,5,0,1,3,Yes
+EMP0109,Manufacturing Director,Yes,14965,5,14,4,4,4,3,Yes
+EMP0110,Manager,No,11745,5,7,6,7,4,4,No
+EMP0111,Manager,No,16018,5,4,4,2,3,3,No
+EMP0112,Human Resources,No,2373,1,15,7,8,1,2,No
+EMP0113,Research Director,No,17301,5,9,8,6,3,4,No
+EMP0114,Sales Representative,Yes,10041,2,1,1,1,4,4,No
+EMP0115,Laboratory Technician,No,2332,1,11,5,8,3,2,No
+EMP0116,Research Director,No,12327,4,2,1,1,4,1,No
+EMP0117,Sales Representative,No,6355,3,1,1,0,1,4,No
+EMP0118,Research Director,No,17662,4,15,6,5,3,4,No
+EMP0119,Research Director,No,15969,4,19,4,4,2,2,Yes
+EMP0120,Laboratory Technician,Yes,3957,1,1,1,1,1,3,No
+EMP0121,Sales Executive,No,7601,2,11,0,8,3,3,No
+EMP0122,Healthcare Representative,No,10177,2,18,9,1,2,4,No
+EMP0123,Sales Representative,No,6380,2,3,3,1,3,1,No
+EMP0124,Manager,No,17303,4,10,6,0,3,3,No
+EMP0125,Manager,Yes,18925,5,7,5,1,1,3,Yes
+EMP0126,Manager,Yes,13950,4,6,3,6,1,4,No
+EMP0127,Sales Executive,No,6377,3,2,2,2,4,1,Yes
+EMP0128,Laboratory Technician,No,4585,1,11,4,4,3,2,No
+EMP0129,Sales Representative,Yes,4758,3,13,3,5,2,3,Yes
+EMP0130,Manager,No,13759,4,3,3,0,4,3,Yes
+EMP0131,Research Scientist,No,4767,1,18,3,6,3,1,No
+EMP0132,Sales Representative,No,9873,3,9,0,5,2,4,Yes
+EMP0133,Research Scientist,No,2870,1,17,3,6,4,1,No
+EMP0134,Manager,Yes,15620,4,1,0,1,4,2,No
+EMP0135,Healthcare Representative,No,6519,3,3,3,3,2,1,Yes
+EMP0136,Manufacturing Director,No,17532,4,2,0,2,3,3,No
+EMP0137,Research Scientist,Yes,4337,1,3,3,3,3,2,No
+EMP0138,Research Scientist,No,4919,1,16,9,2,4,3,No
+EMP0139,Laboratory Technician,Yes,2566,1,8,8,1,4,4,No
+EMP0140,Research Director,No,12022,5,4,4,0,1,3,No
+EMP0141,Manager,No,16527,5,10,1,4,1,2,No
+EMP0142,Manufacturing Director,No,19379,5,6,3,5,3,3,No
+EMP0143,Manufacturing Director,Yes,17449,5,4,4,0,3,3,No
+EMP0144,Healthcare Representative,No,10351,2,19,9,6,3,1,No
+EMP0145,Healthcare Representative,No,8631,3,10,4,6,1,1,No
+EMP0146,Sales Representative,No,7955,2,2,2,0,3,3,No
+EMP0147,Manager,Yes,16019,5,10,6,5,2,4,Yes
+EMP0148,Sales Executive,No,6435,2,10,2,4,3,1,No
+EMP0149,Manager,Yes,19585,4,2,1,2,1,3,Yes
+EMP0150,Manufacturing Director,No,17316,4,7,7,4,4,2,No
+EMP0151,Manager,No,17247,5,4,2,4,2,1,Yes
+EMP0152,Manager,Yes,17323,5,12,4,4,1,4,No
+EMP0153,Research Director,Yes,18291,4,18,5,5,3,4,No
+EMP0154,Manager,No,18539,5,5,5,5,4,4,No
+EMP0155,Manager,No,19604,5,1,1,1,1,3,No
+EMP0156,Manufacturing Director,Yes,19142,4,1,1,1,2,1,Yes
+EMP0157,Research Scientist,Yes,3203,1,14,6,3,2,2,No
+EMP0158,Research Director,No,13100,5,6,1,6,3,1,No
+EMP0159,Manager,Yes,15401,5,18,1,0,1,4,Yes
+EMP0160,Sales Representative,No,8086,2,7,2,7,2,2,No
+EMP0161,Manager,No,17721,4,17,0,4,3,2,No
+EMP0162,Manufacturing Director,No,19667,4,7,3,4,1,2,No
+EMP0163,Manufacturing Director,No,13194,4,9,9,5,3,4,Yes
+EMP0164,Manager,Yes,11279,5,8,2,1,4,1,No
+EMP0165,Research Scientist,Yes,3990,1,14,1,5,4,4,Yes
+EMP0166,Laboratory Technician,Yes,3399,1,9,3,8,3,4,Yes
+EMP0167,Sales Executive,No,10408,3,7,3,3,1,2,No
+EMP0168,Human Resources,No,3388,1,9,2,5,4,4,No
+EMP0169,Research Scientist,No,2798,1,5,1,5,4,1,No
+EMP0170,Sales Representative,No,4838,3,3,3,2,4,3,No
+EMP0171,Research Scientist,No,3688,1,0,0,0,4,1,No
+EMP0172,Manager,No,11783,4,1,1,1,4,4,Yes
+EMP0173,Manager,No,13303,5,9,9,1,3,1,Yes
+EMP0174,Research Director,Yes,12266,4,6,6,6,4,1,Yes
+EMP0175,Healthcare Representative,No,8309,3,3,3,2,1,1,Yes
+EMP0176,Laboratory Technician,No,4978,1,10,10,0,3,2,Yes
+EMP0177,Sales Executive,Yes,7732,2,5,5,2,4,4,Yes
+EMP0178,Healthcare Representative,No,10262,3,6,4,0,4,2,No
+EMP0179,Sales Executive,No,5292,2,8,8,5,2,4,No
+EMP0180,Sales Representative,No,8646,3,10,6,1,2,3,No
+EMP0181,Sales Executive,No,8446,3,8,8,0,2,4,No
+EMP0182,Manager,No,13270,4,0,0,0,4,4,Yes
+EMP0183,Research Scientist,Yes,2274,1,0,0,0,4,3,Yes
+EMP0184,Manager,No,17123,4,17,8,1,4,2,No
+EMP0185,Sales Representative,No,5969,2,10,10,3,2,3,No
+EMP0186,Laboratory Technician,Yes,2693,1,15,9,3,1,2,No
+EMP0187,Research Scientist,No,3141,1,1,1,1,3,2,No
+EMP0188,Sales Executive,No,9557,2,4,4,0,1,2,No
+EMP0189,Healthcare Representative,No,6391,3,12,0,7,4,4,No
+EMP0190,Research Director,No,18321,4,10,9,3,4,2,No
+EMP0191,Sales Representative,No,8219,3,9,0,6,3,3,No
+EMP0192,Healthcare Representative,Yes,5257,2,10,7,8,3,4,Yes
+EMP0193,Human Resources,No,2478,1,15,1,7,3,2,No
+EMP0194,Manufacturing Director,No,17414,5,4,4,4,1,3,Yes
+EMP0195,Sales Executive,No,8187,2,14,2,0,1,4,No
+EMP0196,Laboratory Technician,No,3439,1,3,3,0,1,2,No
+EMP0197,Research Scientist,No,4657,1,4,4,4,1,3,No
+EMP0198,Healthcare Representative,Yes,7572,3,0,0,0,1,2,Yes
+EMP0199,Sales Representative,No,7553,3,14,3,7,2,4,No
+EMP0200,Sales Representative,No,8303,2,15,10,4,1,2,Yes
+EMP0201,Manager,Yes,11588,5,0,0,0,4,2,No
+EMP0202,Sales Executive,Yes,7042,3,0,0,0,4,2,No
+EMP0203,Healthcare Representative,Yes,5221,3,9,6,0,3,4,Yes
+EMP0204,Manufacturing Director,Yes,13551,5,6,6,6,2,4,Yes
+EMP0205,Manager,Yes,19861,5,13,9,0,3,4,No
+EMP0206,Research Director,Yes,16161,5,19,6,2,3,4,No
+EMP0207,Laboratory Technician,No,4525,1,13,0,1,4,3,No
+EMP0208,Healthcare Representative,No,7548,2,15,10,8,2,4,No
+EMP0209,Research Director,Yes,15667,5,18,2,7,2,4,No
+EMP0210,Sales Representative,No,7554,3,8,5,0,2,3,Yes
+EMP0211,Research Scientist,No,3985,1,10,3,2,3,3,Yes
+EMP0212,Healthcare Representative,No,7150,2,2,2,2,2,4,No
+EMP0213,Manufacturing Director,Yes,19072,5,2,0,2,1,1,No
+EMP0214,Research Scientist,No,4922,1,9,1,2,2,1,No
+EMP0215,Healthcare Representative,No,7698,2,1,1,1,3,1,No
+EMP0216,Laboratory Technician,No,3269,1,3,3,2,1,3,No
+EMP0217,Sales Representative,No,5691,2,16,0,7,3,4,No
+EMP0218,Sales Representative,No,7727,2,5,5,1,2,3,No
+EMP0219,Research Director,No,15305,4,14,2,0,1,4,Yes
+EMP0220,Research Scientist,No,3039,1,10,10,7,2,2,No
+EMP0221,Sales Executive,No,4947,2,5,5,1,1,1,Yes
+EMP0222,Research Scientist,Yes,3792,1,4,4,4,4,3,No
+EMP0223,Research Director,Yes,18858,4,20,7,3,2,2,No
+EMP0224,Research Director,Yes,18885,5,3,3,3,1,3,Yes
+EMP0225,Laboratory Technician,No,3590,1,15,0,6,2,1,No
+EMP0226,Manager,No,11259,4,9,5,2,3,4,No
+EMP0227,Laboratory Technician,No,3897,1,9,6,7,4,4,No
+EMP0228,Research Scientist,No,3114,1,12,3,1,4,3,Yes
+EMP0229,Research Scientist,Yes,3468,1,1,1,1,1,4,Yes
+EMP0230,Manager,Yes,16452,5,17,0,4,4,3,No
+EMP0231,Healthcare Representative,No,8679,3,9,6,0,2,1,Yes
+EMP0232,Research Scientist,Yes,2584,1,4,4,4,1,3,Yes
+EMP0233,Laboratory Technician,Yes,3451,1,10,5,1,4,4,No
+EMP0234,Sales Representative,No,5602,3,1,1,1,2,4,No
+EMP0235,Sales Representative,Yes,8399,3,7,4,3,4,1,No
+EMP0236,Manufacturing Director,No,14859,4,12,2,3,1,2,No
+EMP0237,Healthcare Representative,No,9203,2,2,2,1,4,2,No
+EMP0238,Manager,Yes,14017,4,6,5,3,3,3,No
+EMP0239,Healthcare Representative,No,7725,2,8,1,3,4,1,Yes
+EMP0240,Research Director,No,18458,4,8,6,0,4,1,No
+EMP0241,Manager,No,17292,4,19,3,5,4,2,No
+EMP0242,Manager,No,16000,5,15,1,2,2,2,No
+EMP0243,Manufacturing Director,No,14966,5,2,2,2,1,1,No
+EMP0244,Healthcare Representative,Yes,6629,3,17,8,5,4,2,No
+EMP0245,Laboratory Technician,Yes,2808,1,10,9,1,3,1,No
+EMP0246,Manager,Yes,14849,4,8,7,2,3,3,No
+EMP0247,Manager,Yes,14829,5,11,4,4,4,3,No
+EMP0248,Manager,No,16946,4,13,0,4,4,3,Yes
+EMP0249,Healthcare Representative,Yes,7461,3,2,2,2,1,4,Yes
+EMP0250,Manager,No,11659,5,1,1,1,1,1,Yes
+EMP0251,Sales Executive,No,7223,2,5,5,5,2,3,No
+EMP0252,Research Scientist,No,3770,1,13,4,7,2,1,No
+EMP0253,Healthcare Representative,No,4953,3,14,7,2,3,3,No
+EMP0254,Manager,No,17342,4,20,6,7,4,4,No
+EMP0255,Healthcare Representative,No,4557,3,7,5,7,3,4,No
+EMP0256,Sales Representative,No,5892,3,6,4,6,1,4,No
+EMP0257,Research Scientist,No,3866,1,18,1,8,2,2,No
+EMP0258,Sales Executive,No,7254,3,9,5,8,2,4,No
+EMP0259,Manufacturing Director,No,11389,5,5,4,5,2,4,Yes
+EMP0260,Manufacturing Director,No,18699,4,20,3,2,2,3,No
+EMP0261,Manager,No,16406,4,14,5,5,3,1,No
+EMP0262,Manager,No,12381,5,16,9,1,3,3,No
+EMP0263,Healthcare Representative,No,9434,3,14,4,1,3,3,Yes
+EMP0264,Laboratory Technician,No,3064,1,3,3,3,3,1,No
+EMP0265,Research Scientist,No,4858,1,16,7,7,1,3,No
+EMP0266,Manufacturing Director,No,16230,4,15,9,4,3,2,No
+EMP0267,Laboratory Technician,Yes,3469,1,12,0,6,1,2,Yes
+EMP0268,Laboratory Technician,No,2385,1,7,5,7,4,2,No
+EMP0269,Sales Executive,Yes,8871,2,11,4,4,1,2,No
+EMP0270,Manager,No,14307,5,16,3,1,2,4,No
+EMP0271,Healthcare Representative,No,9420,2,10,2,2,2,4,Yes
+EMP0272,Sales Executive,No,9911,2,8,5,3,1,1,No
+EMP0273,Research Director,No,14099,4,11,0,4,1,3,No
+EMP0274,Sales Representative,Yes,9173,3,3,3,3,4,4,No
+EMP0275,Research Scientist,No,3463,1,1,1,1,1,2,Yes
+EMP0276,Sales Representative,Yes,8652,3,7,1,6,4,2,No
+EMP0277,Laboratory Technician,No,4211,1,4,4,1,2,2,Yes
+EMP0278,Research Scientist,No,3681,1,6,6,6,4,4,No
+EMP0279,Manufacturing Director,No,18992,5,4,0,0,1,2,No
+EMP0280,Sales Representative,No,8292,2,12,2,0,3,3,No
+EMP0281,Manager,No,17191,5,9,3,0,4,3,Yes
+EMP0282,Research Director,No,15542,5,4,4,4,2,1,Yes
+EMP0283,Healthcare Representative,No,7866,3,2,1,0,1,4,No
+EMP0284,Sales Representative,No,5669,3,6,6,0,4,4,No
+EMP0285,Manufacturing Director,No,19864,5,6,6,6,4,2,Yes
+EMP0286,Manager,No,12985,5,5,5,1,4,3,No
+EMP0287,Sales Executive,Yes,10232,3,11,5,3,4,3,No
+EMP0288,Sales Executive,Yes,6975,2,10,2,7,4,1,No
+EMP0289,Research Director,No,11447,4,4,2,1,4,1,No
+EMP0290,Healthcare Representative,Yes,5252,3,15,0,8,1,1,Yes
+EMP0291,Human Resources,Yes,4840,1,1,1,1,2,3,No
+EMP0292,Healthcare Representative,Yes,5271,2,12,4,2,1,1,Yes
+EMP0293,Manager,No,14693,5,11,7,6,4,1,No
+EMP0294,Research Scientist,No,3453,1,4,4,4,1,3,No
+EMP0295,Manager,Yes,14866,4,5,1,4,4,4,No
+EMP0296,Healthcare Representative,No,8059,3,14,8,8,1,2,No
+EMP0297,Sales Executive,No,8816,3,13,3,8,3,3,No
+EMP0298,Healthcare Representative,No,8744,3,11,10,0,2,4,No
+EMP0299,Manufacturing Director,No,12850,4,5,2,5,4,1,No
+EMP0300,Research Scientist,No,2302,1,2,2,2,3,2,Yes
+EMP0301,Manager,Yes,12055,4,0,0,0,3,3,Yes
+EMP0302,Sales Representative,Yes,6991,2,20,6,5,1,2,No
+EMP0303,Sales Executive,No,6983,2,3,0,3,3,2,No
+EMP0304,Healthcare Representative,No,8993,3,2,2,2,1,2,No
+EMP0305,Laboratory Technician,No,4630,1,15,8,0,2,2,Yes
+EMP0306,Manager,No,17286,4,9,8,0,2,3,Yes
+EMP0307,Manufacturing Director,No,11739,4,14,3,5,4,4,No
+EMP0308,Research Director,Yes,11749,5,5,5,0,2,4,No
+EMP0309,Healthcare Representative,Yes,9276,3,9,3,2,2,3,No
+EMP0310,Manager,No,16985,4,20,7,8,3,2,No
+EMP0311,Sales Executive,No,6343,2,11,2,7,1,3,No
+EMP0312,Research Director,No,15483,5,2,2,1,4,2,No
+EMP0313,Sales Representative,No,9233,2,2,2,2,3,2,No
+EMP0314,Manager,No,15540,5,4,4,4,4,1,No
+EMP0315,Research Scientist,Yes,3626,1,6,6,0,4,1,Yes
+EMP0316,Research Scientist,No,3336,1,17,4,3,4,2,No
+EMP0317,Manager,Yes,17227,4,12,4,0,1,2,Yes
+EMP0318,Manager,Yes,12205,4,16,5,5,3,2,No
+EMP0319,Research Scientist,No,2323,1,1,1,1,2,3,Yes
+EMP0320,Laboratory Technician,No,4115,1,2,2,2,1,3,Yes
+EMP0321,Laboratory Technician,Yes,4611,1,0,0,0,4,3,No
+EMP0322,Sales Executive,No,4916,2,11,5,8,3,1,No
+EMP0323,Manufacturing Director,Yes,15209,4,5,5,0,2,1,No
+EMP0324,Manager,No,17142,5,4,4,2,3,3,No
+EMP0325,Laboratory Technician,No,4891,1,4,4,0,4,4,No
+EMP0326,Sales Executive,No,9317,2,3,3,1,1,2,No
+EMP0327,Manager,No,17343,5,14,5,1,2,3,No
+EMP0328,Healthcare Representative,No,7053,3,4,4,4,4,4,No
+EMP0329,Manufacturing Director,Yes,19284,4,6,6,3,2,3,No
+EMP0330,Manager,No,16445,5,4,3,1,1,1,Yes
+EMP0331,Sales Executive,No,8583,3,19,6,1,3,2,No
+EMP0332,Laboratory Technician,No,3063,1,8,6,8,1,2,No
+EMP0333,Healthcare Representative,No,8779,2,11,1,2,3,4,No
+EMP0334,Manager,Yes,19124,4,2,1,0,4,3,Yes
+EMP0335,Research Director,Yes,19063,5,0,0,0,1,2,No
+EMP0336,Sales Executive,Yes,6803,3,1,1,1,3,1,Yes
+EMP0337,Manufacturing Director,No,13148,4,5,5,4,4,3,No
+EMP0338,Manufacturing Director,Yes,11180,5,5,3,5,3,3,No
+EMP0339,Manager,No,16520,4,13,6,4,4,3,No
+EMP0340,Manager,No,13366,4,4,4,3,4,3,No
+EMP0341,Manufacturing Director,Yes,15524,4,7,6,3,3,3,No
+EMP0342,Sales Representative,Yes,4974,2,0,0,0,2,1,No
+EMP0343,Healthcare Representative,No,6244,2,3,3,3,2,1,No
+EMP0344,Research Scientist,Yes,3718,1,13,1,0,2,2,Yes
+EMP0345,Sales Representative,No,6453,2,5,1,5,3,3,No
+EMP0346,Research Scientist,No,3194,1,14,6,3,1,3,No
+EMP0347,Sales Executive,Yes,4604,3,9,5,6,3,3,Yes
+EMP0348,Healthcare Representative,Yes,9686,3,16,5,0,4,3,Yes
+EMP0349,Laboratory Technician,No,2673,1,11,8,6,1,1,No
+EMP0350,Sales Representative,No,7291,2,7,7,0,3,4,No
+EMP0351,Manager,No,16206,5,19,7,6,4,4,No
+EMP0352,Research Director,No,11961,4,9,4,2,4,4,No
+EMP0353,Research Scientist,Yes,3675,1,6,6,3,3,2,Yes
+EMP0354,Sales Representative,No,10228,3,7,0,1,3,3,No
+EMP0355,Healthcare Representative,No,8400,2,16,6,6,2,3,Yes
+EMP0356,Manager,Yes,13249,4,14,7,3,4,2,No
+EMP0357,Research Scientist,No,2715,1,7,4,4,3,2,Yes
+EMP0358,Sales Representative,No,6180,3,9,9,7,4,1,No
+EMP0359,Healthcare Representative,No,5844,3,7,7,4,4,4,No
+EMP0360,Research Scientist,No,3752,1,5,0,5,2,3,Yes
+EMP0361,Research Scientist,Yes,2373,1,3,1,0,1,3,Yes
+EMP0362,Research Scientist,No,4232,1,13,8,8,3,3,No
+EMP0363,Manufacturing Director,No,12482,5,0,0,0,1,3,Yes
+EMP0364,Laboratory Technician,No,2811,1,16,3,2,1,3,No
+EMP0365,Sales Executive,No,9026,2,9,9,1,2,4,No
+EMP0366,Manager,Yes,14071,4,9,9,5,1,2,Yes
+EMP0367,Laboratory Technician,Yes,2803,1,0,0,0,2,4,No
+EMP0368,Sales Representative,Yes,10054,2,6,4,1,3,2,No
+EMP0369,Research Scientist,Yes,2278,1,9,8,3,3,1,Yes
+EMP0370,Manufacturing Director,No,16075,5,5,3,5,2,1,No
+EMP0371,Laboratory Technician,No,2551,1,3,1,3,1,3,Yes
+EMP0372,Manager,No,13145,5,8,2,7,3,1,No
+EMP0373,Manager,No,18875,5,7,2,0,4,2,Yes
+EMP0374,Healthcare Representative,No,5698,3,11,4,3,2,4,No
+EMP0375,Sales Representative,Yes,6203,3,3,3,3,2,1,Yes
+EMP0376,Laboratory Technician,No,2667,1,8,8,0,1,3,Yes
+EMP0377,Research Scientist,No,2456,1,6,3,6,4,2,Yes
+EMP0378,Research Scientist,Yes,2741,1,14,0,2,4,1,Yes
+EMP0379,Research Director,No,12734,5,0,0,0,4,1,No
+EMP0380,Laboratory Technician,No,3079,1,3,3,1,3,4,No
+EMP0381,Sales Executive,Yes,8378,3,2,2,1,4,4,No
+EMP0382,Research Scientist,Yes,2847,1,3,0,0,1,4,Yes
+EMP0383,Sales Representative,Yes,4917,3,14,1,1,1,1,No
+EMP0384,Manufacturing Director,No,19673,5,2,2,0,4,4,No
+EMP0385,Manufacturing Director,Yes,19787,5,10,6,3,1,3,No
+EMP0386,Manufacturing Director,Yes,14140,4,4,3,3,1,2,No
+EMP0387,Sales Representative,No,4519,2,16,4,8,1,4,Yes
+EMP0388,Sales Representative,No,5138,2,12,8,4,3,1,No
+EMP0389,Manufacturing Director,No,13548,4,14,1,7,3,3,Yes
+EMP0390,Manufacturing Director,No,18880,5,6,6,0,1,2,No
+EMP0391,Healthcare Representative,No,5976,2,3,3,3,1,2,No
+EMP0392,Research Director,Yes,14150,4,13,10,5,3,2,No
+EMP0393,Research Director,Yes,19384,4,4,4,2,2,4,No
+EMP0394,Laboratory Technician,Yes,4970,1,12,2,2,4,1,No
+EMP0395,Sales Executive,No,8695,3,9,4,2,2,4,No
+EMP0396,Sales Executive,No,10327,2,19,2,7,4,1,Yes
+EMP0397,Research Director,No,13845,5,14,8,3,3,2,No
+EMP0398,Research Scientist,No,4773,1,10,1,1,2,2,No
+EMP0399,Sales Executive,No,8421,2,0,0,0,1,2,No
+EMP0400,Manager,No,15058,4,8,6,3,4,4,No
+EMP0401,Laboratory Technician,Yes,3782,1,5,3,5,4,1,No
+EMP0402,Research Scientist,Yes,3160,1,5,5,5,4,2,No
+EMP0403,Manufacturing Director,No,13872,4,2,0,0,1,1,No
+EMP0404,Sales Executive,No,8516,2,2,2,1,4,3,No
+EMP0405,Manager,No,15109,5,2,2,2,2,4,No
+EMP0406,Research Director,No,17104,4,2,2,2,1,2,No
+EMP0407,Manager,Yes,15915,5,1,1,1,4,2,No
+EMP0408,Laboratory Technician,Yes,2885,1,17,0,1,3,2,Yes
+EMP0409,Healthcare Representative,No,8083,2,1,1,1,2,3,Yes
+EMP0410,Healthcare Representative,No,4956,3,5,5,5,1,3,No
+EMP0411,Manager,No,19398,4,20,0,6,4,2,Yes
+EMP0412,Research Scientist,No,2464,1,14,9,7,1,3,Yes
+EMP0413,Manager,No,14449,5,14,8,6,2,4,Yes
+EMP0414,Research Director,Yes,11189,4,14,6,6,3,2,No
+EMP0415,Research Scientist,No,4202,1,5,5,5,1,1,No
+EMP0416,Sales Executive,No,9128,2,17,6,7,2,4,No
+EMP0417,Sales Representative,No,4941,2,12,5,3,3,2,No
+EMP0418,Research Scientist,Yes,3652,1,4,2,2,2,2,Yes
+EMP0419,Sales Representative,Yes,8758,2,4,3,4,3,2,No
+EMP0420,Healthcare Representative,No,7279,2,1,1,1,2,2,No
+EMP0421,Manufacturing Director,Yes,15930,5,3,1,3,3,3,Yes
+EMP0422,Sales Representative,No,10303,2,3,2,1,4,4,No
+EMP0423,Manufacturing Director,No,17673,5,19,5,0,2,3,No
+EMP0424,Sales Representative,No,4750,2,13,4,2,2,3,Yes
+EMP0425,Human Resources,No,2787,1,9,3,1,4,4,Yes
+EMP0426,Manufacturing Director,No,12616,4,6,6,0,4,3,No
+EMP0427,Manager,No,12778,4,5,5,2,2,1,No
+EMP0428,Sales Executive,Yes,7680,3,11,1,2,3,3,No
+EMP0429,Sales Executive,No,6320,3,10,1,5,2,2,No
+EMP0430,Laboratory Technician,No,2855,1,9,3,3,1,4,Yes
+EMP0431,Manager,No,17533,4,8,8,7,4,2,No
+EMP0432,Manager,No,15046,4,8,2,1,3,3,No
+EMP0433,Manager,No,12543,4,8,3,5,3,2,No
+EMP0434,Healthcare Representative,Yes,7489,3,11,3,2,1,3,Yes
+EMP0435,Laboratory Technician,No,4400,1,14,1,6,3,4,No
+EMP0436,Healthcare Representative,No,9055,3,0,0,0,3,2,No
+EMP0437,Sales Representative,No,6340,3,8,1,5,3,1,Yes
+EMP0438,Manager,No,16451,5,3,0,3,4,3,No
+EMP0439,Laboratory Technician,No,3295,1,19,10,6,2,4,Yes
+EMP0440,Research Scientist,Yes,3303,1,11,9,6,4,1,No
+EMP0441,Research Scientist,No,4026,1,10,1,2,2,2,No
+EMP0442,Sales Executive,Yes,5258,2,7,7,7,4,2,Yes
+EMP0443,Research Director,No,19024,4,2,2,0,2,2,No
+EMP0444,Laboratory Technician,No,2464,1,0,0,0,1,1,No
+EMP0445,Research Director,No,19760,4,0,0,0,3,4,No
+EMP0446,Manufacturing Director,Yes,11484,5,11,2,2,1,3,No
+EMP0447,Manager,No,18877,5,13,10,8,3,4,No
+EMP0448,Manager,No,16152,4,7,7,5,1,4,No
+EMP0449,Sales Representative,No,8344,2,5,5,2,2,3,No
+EMP0450,Manager,No,17963,4,11,3,6,1,2,Yes
+EMP0451,Research Director,No,14256,4,15,2,5,1,4,No
+EMP0452,Research Director,No,12194,5,3,0,3,4,4,No
+EMP0453,Research Director,No,11543,4,0,0,0,2,4,Yes
+EMP0454,Healthcare Representative,No,8835,3,7,4,4,2,4,No
+EMP0455,Manager,No,16963,4,1,1,1,3,3,No
+EMP0456,Sales Executive,No,10190,3,9,3,4,4,4,No
+EMP0457,Research Scientist,Yes,4109,1,14,3,4,1,3,No
+EMP0458,Research Director,Yes,19859,5,14,9,8,1,2,Yes
+EMP0459,Research Scientist,No,4894,1,4,4,0,1,1,Yes
+EMP0460,Sales Executive,No,8253,3,11,9,0,2,2,No
+EMP0461,Laboratory Technician,Yes,4251,1,4,4,4,1,4,Yes
+EMP0462,Research Scientist,No,2604,1,1,0,1,2,3,Yes
+EMP0463,Sales Executive,Yes,5791,3,3,3,0,1,3,Yes
+EMP0464,Research Scientist,No,3444,1,2,2,2,2,1,No
+EMP0465,Sales Representative,Yes,9234,2,4,1,2,1,2,Yes
+EMP0466,Research Scientist,No,4760,1,15,10,1,2,2,Yes
+EMP0467,Healthcare Representative,No,4600,2,1,1,1,1,4,No
+EMP0468,Manufacturing Director,No,14069,4,13,8,8,2,2,No
+EMP0469,Laboratory Technician,No,3354,1,0,0,0,2,3,No
+EMP0470,Sales Representative,No,8309,2,11,9,2,1,1,No
+EMP0471,Laboratory Technician,No,2503,1,13,4,8,1,2,No
+EMP0472,Manager,Yes,18630,4,17,7,0,2,4,No
+EMP0473,Research Scientist,Yes,4164,1,7,7,0,3,3,No
+EMP0474,Manufacturing Director,No,15987,5,8,6,8,2,3,Yes
+EMP0475,Research Director,No,17139,5,4,1,4,1,3,No
+EMP0476,Manufacturing Director,Yes,11614,5,5,4,5,3,2,No
+EMP0477,Manufacturing Director,No,12636,4,7,6,2,4,4,No
+EMP0478,Sales Representative,No,8868,3,7,3,7,4,3,No
+EMP0479,Research Director,No,18251,4,6,1,4,2,4,No
+EMP0480,Research Director,Yes,19063,5,19,2,8,4,4,Yes
+EMP0481,Sales Representative,No,5620,2,7,3,6,2,4,No
+EMP0482,Manufacturing Director,No,15505,5,16,6,0,2,1,Yes
+EMP0483,Sales Executive,No,10302,3,11,8,5,1,4,No
+EMP0484,Healthcare Representative,Yes,8745,2,12,9,4,4,4,No
+EMP0485,Sales Representative,No,6040,2,19,9,5,4,1,No
+EMP0486,Research Director,No,17204,4,14,5,3,1,2,No
+EMP0487,Manager,Yes,18172,5,11,10,7,4,1,No
+EMP0488,Research Director,No,17631,4,4,4,4,4,4,No
+EMP0489,Manager,Yes,18328,5,0,0,0,2,4,Yes
+EMP0490,Manager,No,17071,4,18,5,3,4,3,No
+EMP0491,Research Director,No,15731,4,7,2,7,2,2,No
+EMP0492,Healthcare Representative,No,4747,3,0,0,0,2,3,Yes
+EMP0493,Research Director,No,18283,4,2,2,2,4,1,No
+EMP0494,Research Scientist,No,3445,1,8,2,8,4,2,No
+EMP0495,Healthcare Representative,No,6143,2,8,6,4,4,1,No
+EMP0496,Healthcare Representative,No,5090,2,14,3,7,2,1,Yes
+EMP0497,Laboratory Technician,No,2249,1,7,7,2,4,2,No
+EMP0498,Sales Executive,No,9653,3,12,1,7,1,3,No
+EMP0499,Research Scientist,No,2677,1,7,7,2,4,2,No
+EMP0500,Manager,No,13442,4,11,6,3,4,1,Yes
+EMP0501,Healthcare Representative,No,8357,2,17,4,0,3,4,No
+EMP0502,Research Director,No,16773,4,4,4,4,4,2,No
+EMP0503,Sales Representative,No,7273,2,2,2,2,4,1,Yes
+EMP0504,Manager,No,17808,4,19,8,8,3,4,No
+EMP0505,Sales Representative,No,8080,3,10,6,2,1,1,Yes
+EMP0506,Manager,No,13066,5,3,3,3,2,3,No
+EMP0507,Sales Executive,No,7586,2,5,0,1,4,2,No
+EMP0508,Manager,No,12578,4,0,0,0,2,2,No
+EMP0509,Sales Representative,Yes,6046,3,11,2,2,2,3,No
+EMP0510,Manager,No,12630,5,7,6,0,3,4,Yes
+EMP0511,Research Director,Yes,11004,5,12,8,6,1,3,No
+EMP0512,Manager,Yes,19926,4,10,8,8,3,2,No
+EMP0513,Laboratory Technician,Yes,2996,1,5,2,5,2,4,No
+EMP0514,Laboratory Technician,No,4881,1,10,10,7,3,2,No
+EMP0515,Manager,No,16338,4,15,8,0,4,1,No
+EMP0516,Healthcare Representative,No,6821,3,13,5,6,4,4,No
+EMP0517,Manager,No,12468,4,13,8,2,3,2,No
+EMP0518,Manager,No,17248,5,17,4,8,4,1,Yes
+EMP0519,Manager,Yes,14341,5,2,2,2,1,4,Yes
+EMP0520,Research Scientist,Yes,4462,1,0,0,0,2,2,Yes
+EMP0521,Research Scientist,Yes,4318,1,10,3,2,2,2,No
+EMP0522,Healthcare Representative,No,6453,2,0,0,0,2,4,Yes
+EMP0523,Manager,No,16684,5,4,4,3,4,3,No
+EMP0524,Sales Executive,No,7501,2,12,10,4,3,4,No
+EMP0525,Manufacturing Director,No,13711,4,7,7,6,3,1,No
+EMP0526,Laboratory Technician,Yes,2506,1,9,8,7,4,2,No
+EMP0527,Laboratory Technician,Yes,3166,1,8,7,8,3,4,Yes
+EMP0528,Research Director,No,13076,5,10,1,3,2,2,No
+EMP0529,Manufacturing Director,No,15644,5,5,5,0,3,1,No
+EMP0530,Laboratory Technician,No,3094,1,11,7,1,1,2,No
+EMP0531,Manufacturing Director,No,13640,4,4,4,4,2,4,No
+EMP0532,Research Scientist,No,3540,1,15,0,2,1,1,No
+EMP0533,Healthcare Representative,No,4746,2,12,6,1,1,4,No
+EMP0534,Research Scientist,No,4308,1,1,1,1,4,4,No
+EMP0535,Manager,No,18916,5,13,0,2,3,3,No
+EMP0536,Sales Executive,No,6946,2,8,6,2,4,4,No
+EMP0537,Human Resources,No,2270,1,20,4,6,2,2,Yes
+EMP0538,Manager,No,15178,4,8,6,5,4,3,No
+EMP0539,Healthcare Representative,No,6556,2,19,10,5,3,2,No
+EMP0540,Healthcare Representative,Yes,6252,2,7,6,1,4,2,No
+EMP0541,Research Director,No,15331,4,5,5,3,2,1,No
+EMP0542,Manager,Yes,18235,4,17,5,1,3,3,Yes
+EMP0543,Sales Representative,No,5691,2,9,7,4,4,2,No
+EMP0544,Manager,No,17959,4,5,5,5,3,3,No
+EMP0545,Sales Representative,No,9117,2,17,0,5,4,1,No
+EMP0546,Research Director,Yes,12493,5,19,3,6,2,4,Yes
+EMP0547,Research Director,No,12954,5,4,4,4,3,2,No
+EMP0548,Manager,No,13827,5,14,4,2,1,2,No
+EMP0549,Manager,Yes,19310,5,15,6,5,4,3,No
+EMP0550,Manufacturing Director,No,15563,4,8,8,6,1,1,Yes
+EMP0551,Manufacturing Director,No,15380,4,4,4,4,2,4,No
+EMP0552,Research Scientist,No,4674,1,17,5,6,2,1,Yes
+EMP0553,Sales Representative,No,7540,3,8,2,1,2,2,Yes
+EMP0554,Manager,No,12245,5,3,3,3,1,3,No
+EMP0555,Research Director,Yes,18045,4,1,1,0,1,4,Yes
+EMP0556,Research Director,No,12057,4,15,5,2,3,3,No
+EMP0557,Laboratory Technician,Yes,2520,1,3,3,3,3,1,No
+EMP0558,Sales Executive,Yes,8745,3,6,6,6,4,4,Yes
+EMP0559,Sales Executive,Yes,8760,3,8,8,7,4,2,Yes
+EMP0560,Sales Executive,Yes,8437,3,18,6,4,4,3,No
+EMP0561,Manufacturing Director,Yes,14783,4,7,0,4,3,2,No
+EMP0562,Manager,No,19886,5,11,9,3,3,2,No
+EMP0563,Sales Representative,No,7462,2,1,1,1,3,2,No
+EMP0564,Sales Representative,Yes,5575,3,5,1,5,2,2,No
+EMP0565,Sales Representative,No,5764,3,12,10,2,4,4,No
+EMP0566,Manager,No,16026,4,10,10,2,4,1,No
+EMP0567,Laboratory Technician,No,2738,1,5,5,1,4,2,No
+EMP0568,Sales Executive,No,6501,2,16,2,6,1,2,No
+EMP0569,Research Scientist,No,3537,1,16,1,6,3,2,No
+EMP0570,Research Director,No,17762,5,8,1,6,1,2,Yes
+EMP0571,Manager,No,19139,5,18,8,7,2,1,Yes
+EMP0572,Manufacturing Director,No,19341,5,19,6,3,3,1,No
+EMP0573,Manufacturing Director,No,16768,4,14,10,1,2,4,Yes
+EMP0574,Healthcare Representative,Yes,8233,3,15,3,5,4,4,No
+EMP0575,Laboratory Technician,No,2451,1,12,2,0,3,1,No
+EMP0576,Manufacturing Director,Yes,13360,5,11,9,1,2,4,Yes
+EMP0577,Laboratory Technician,Yes,2411,1,11,9,0,1,3,No
+EMP0578,Manufacturing Director,Yes,18265,5,16,5,1,3,2,No
+EMP0579,Healthcare Representative,No,10439,3,19,10,3,2,1,No
+EMP0580,Research Scientist,No,2386,1,13,5,0,3,4,No
+EMP0581,Sales Executive,Yes,7133,3,16,7,3,1,3,Yes
+EMP0582,Research Director,No,12417,5,8,5,7,2,1,Yes
+EMP0583,Manager,Yes,15804,5,4,0,3,2,1,No
+EMP0584,Sales Representative,Yes,6315,3,4,4,4,1,4,No
+EMP0585,Healthcare Representative,No,9502,3,13,7,6,1,1,No
+EMP0586,Research Scientist,No,4568,1,17,4,4,4,3,Yes
+EMP0587,Research Director,Yes,19737,4,18,10,1,1,3,Yes
+EMP0588,Research Director,No,17099,4,13,2,6,1,3,No
+EMP0589,Manager,No,11252,5,7,7,7,3,4,Yes
+EMP0590,Manufacturing Director,No,16347,4,4,4,2,4,4,Yes
+EMP0591,Manufacturing Director,No,19693,5,14,6,4,4,3,No
+EMP0592,Laboratory Technician,No,4344,1,8,8,0,1,2,Yes
+EMP0593,Laboratory Technician,No,3086,1,11,2,2,3,3,No
+EMP0594,Research Director,Yes,15751,4,17,0,3,1,3,Yes
+EMP0595,Laboratory Technician,No,2220,1,10,1,5,4,2,Yes
+EMP0596,Sales Executive,No,8416,3,8,3,3,3,1,No
+EMP0597,Research Director,Yes,13768,5,2,2,2,1,1,Yes
+EMP0598,Healthcare Representative,Yes,5031,2,6,0,1,2,2,Yes
+EMP0599,Healthcare Representative,Yes,6971,3,5,1,4,1,2,Yes
+EMP0600,Healthcare Representative,No,10337,3,8,4,2,3,4,No
+EMP0601,Manager,Yes,11611,5,4,4,4,2,3,Yes
+EMP0602,Research Scientist,No,3530,1,0,0,0,3,2,No
+EMP0603,Research Scientist,No,2358,1,5,5,1,3,3,No
+EMP0604,Sales Representative,Yes,6386,3,0,0,0,2,4,No
+EMP0605,Healthcare Representative,Yes,5985,3,5,3,2,2,1,No
+EMP0606,Research Director,Yes,17025,4,8,4,2,3,3,Yes
+EMP0607,Research Scientist,No,3337,1,5,5,0,3,2,Yes
+EMP0608,Healthcare Representative,No,9708,2,13,4,4,1,2,No
+EMP0609,Research Scientist,No,2623,1,2,2,2,4,1,Yes
+EMP0610,Manufacturing Director,No,12772,5,2,2,2,2,2,No
+EMP0611,Research Scientist,No,2923,1,6,3,6,3,1,Yes
+EMP0612,Sales Executive,No,8118,3,19,10,7,1,4,No
+EMP0613,Manufacturing Director,No,12190,4,2,2,2,4,2,No
+EMP0614,Laboratory Technician,No,4864,1,5,5,5,2,4,No
+EMP0615,Sales Representative,No,7151,3,11,8,4,2,3,No
+EMP0616,Research Director,No,17469,4,6,1,4,4,4,No
+EMP0617,Research Scientist,No,2415,1,0,0,0,2,1,Yes
+EMP0618,Healthcare Representative,No,7429,3,17,4,3,3,4,No
+EMP0619,Manager,Yes,13553,4,5,5,2,3,4,Yes
+EMP0620,Sales Executive,No,8167,2,10,5,1,4,4,No
+EMP0621,Human Resources,Yes,4020,1,1,1,1,4,3,Yes
+EMP0622,Laboratory Technician,No,3054,1,4,4,3,3,1,No
+EMP0623,Research Scientist,No,3744,1,12,0,6,4,4,No
+EMP0624,Manager,No,19137,4,12,5,6,3,3,Yes
+EMP0625,Sales Executive,No,7910,2,8,2,2,4,4,No
+EMP0626,Laboratory Technician,No,4425,1,6,3,0,2,3,No
+EMP0627,Manufacturing Director,No,16993,4,4,2,4,4,1,Yes
+EMP0628,Manufacturing Director,No,14832,4,18,9,3,4,4,No
+EMP0629,Manager,No,19819,4,3,0,1,1,2,No
+EMP0630,Research Director,No,14490,5,1,1,1,4,1,No
+EMP0631,Manager,Yes,15023,4,19,2,4,4,2,Yes
+EMP0632,Manager,No,18221,5,8,2,6,2,3,No
+EMP0633,Laboratory Technician,Yes,3847,1,0,0,0,1,1,Yes
+EMP0634,Research Director,No,17845,4,3,3,3,4,3,No
+EMP0635,Sales Representative,No,7846,3,3,3,3,2,2,No
+EMP0636,Laboratory Technician,No,3469,1,6,5,2,1,2,Yes
+EMP0637,Healthcare Representative,Yes,5585,2,2,2,2,2,2,No
+EMP0638,Research Director,No,14169,5,10,4,5,3,1,No
+EMP0639,Manufacturing Director,No,15338,4,19,4,5,4,2,No
+EMP0640,Sales Executive,No,7517,3,14,9,5,1,2,No
+EMP0641,Manufacturing Director,No,13684,5,12,8,5,4,3,No
+EMP0642,Human Resources,No,4076,1,6,6,6,4,1,No
+EMP0643,Healthcare Representative,No,7384,3,6,6,4,2,4,No
+EMP0644,Healthcare Representative,Yes,6056,2,6,6,5,1,4,No
+EMP0645,Research Scientist,No,3416,1,15,5,1,4,2,Yes
+EMP0646,Laboratory Technician,No,4422,1,3,3,2,2,3,Yes
+EMP0647,Manager,No,15547,4,15,6,5,4,2,No
+EMP0648,Research Scientist,No,2697,1,4,3,4,2,4,Yes
+EMP0649,Sales Representative,No,8149,2,18,10,7,1,3,No
+EMP0650,Manufacturing Director,No,12940,5,7,7,0,2,1,No
+EMP0651,Laboratory Technician,No,4564,1,7,7,5,3,3,No
+EMP0652,Sales Representative,Yes,6581,3,20,2,1,1,4,Yes
+EMP0653,Sales Executive,No,8292,2,4,4,3,4,1,Yes
+EMP0654,Manager,No,12392,4,13,10,5,4,1,No
+EMP0655,Sales Executive,No,10017,3,8,8,3,4,4,Yes
+EMP0656,Manager,No,19906,4,7,5,3,1,3,No
+EMP0657,Research Scientist,Yes,4953,1,6,6,6,1,1,No
+EMP0658,Human Resources,Yes,4142,1,2,2,2,1,4,No
+EMP0659,Laboratory Technician,No,3949,1,6,6,0,1,1,Yes
+EMP0660,Manager,Yes,11417,4,11,5,1,3,1,No
+EMP0661,Sales Representative,No,4935,2,6,0,4,3,3,No
+EMP0662,Laboratory Technician,Yes,4864,1,1,0,1,2,4,No
+EMP0663,Manager,No,14790,5,10,5,0,2,2,No
+EMP0664,Healthcare Representative,No,7685,3,4,4,0,2,2,No
+EMP0665,Manufacturing Director,No,16217,5,9,6,7,4,3,No
+EMP0666,Laboratory Technician,No,2505,1,5,2,3,1,1,No
+EMP0667,Research Director,No,16919,5,7,7,7,1,1,No
+EMP0668,Laboratory Technician,No,2800,1,7,3,2,3,1,Yes
+EMP0669,Manager,Yes,13777,5,1,1,1,2,1,Yes
+EMP0670,Research Director,No,12529,4,14,10,6,3,1,Yes
+EMP0671,Sales Executive,No,7996,2,20,9,3,3,4,No
+EMP0672,Manager,No,19918,4,16,5,1,3,2,No
+EMP0673,Research Director,No,16798,5,15,2,3,1,4,Yes
+EMP0674,Manager,No,13033,4,7,7,7,4,2,No
+EMP0675,Manufacturing Director,No,15133,5,16,9,0,2,2,No
+EMP0676,Laboratory Technician,Yes,4260,1,3,2,3,2,3,No
+EMP0677,Research Director,No,14457,4,17,4,7,2,4,No
+EMP0678,Human Resources,Yes,2576,1,7,7,7,2,1,Yes
+EMP0679,Manager,No,15289,4,13,0,3,2,4,No
+EMP0680,Research Scientist,No,4778,1,6,6,6,4,2,Yes
+EMP0681,Sales Executive,Yes,4811,2,2,2,2,2,1,Yes
+EMP0682,Manager,No,14633,5,5,1,0,1,3,No
+EMP0683,Sales Representative,No,5456,2,14,5,2,1,1,No
+EMP0684,Research Director,No,11216,4,14,3,3,4,2,No
+EMP0685,Sales Representative,No,5248,3,11,0,7,4,2,No
+EMP0686,Manufacturing Director,No,15936,5,18,9,5,2,2,No
+EMP0687,Research Director,No,19678,4,17,2,7,1,1,No
+EMP0688,Manager,No,12931,5,10,5,0,1,2,No
+EMP0689,Laboratory Technician,No,2520,1,1,1,0,4,2,No
+EMP0690,Healthcare Representative,No,5056,3,12,8,8,4,3,No
+EMP0691,Research Director,No,18361,4,20,10,3,1,4,Yes
+EMP0692,Manager,Yes,19342,5,11,2,8,1,2,No
+EMP0693,Manager,Yes,16855,5,3,3,3,4,3,No
+EMP0694,Sales Representative,Yes,5917,2,17,5,5,2,3,Yes
+EMP0695,Sales Executive,No,7755,3,13,1,4,4,2,No
+EMP0696,Sales Executive,Yes,6886,2,20,4,2,3,4,Yes
+EMP0697,Manufacturing Director,No,16314,4,10,4,3,4,1,No
+EMP0698,Manager,No,15165,5,11,3,2,1,3,Yes
+EMP0699,Research Director,No,18073,5,15,5,6,1,2,No
+EMP0700,Research Scientist,Yes,2704,1,12,3,0,1,4,No
+EMP0701,Healthcare Representative,No,5424,2,4,1,3,3,3,No
+EMP0702,Manager,No,15918,5,9,9,7,1,3,Yes
+EMP0703,Healthcare Representative,No,6735,3,2,0,2,4,4,Yes
+EMP0704,Manager,No,16321,5,3,3,3,1,1,Yes
+EMP0705,Healthcare Representative,Yes,6347,3,15,9,8,3,1,Yes
+EMP0706,Research Scientist,Yes,2668,1,14,9,7,4,1,No
+EMP0707,Healthcare Representative,No,7926,2,0,0,0,1,4,No
+EMP0708,Sales Representative,Yes,5092,3,6,6,6,2,1,Yes
+EMP0709,Manager,No,12376,5,9,7,3,2,4,No
+EMP0710,Research Scientist,Yes,2494,1,16,8,1,3,2,No
+EMP0711,Laboratory Technician,Yes,2633,1,7,3,7,4,1,Yes
+EMP0712,Healthcare Representative,Yes,6400,3,5,4,5,1,2,Yes
+EMP0713,Manager,No,13697,4,10,8,2,2,2,No
+EMP0714,Sales Representative,No,5667,2,6,6,5,3,3,No
+EMP0715,Research Director,No,19390,4,1,1,1,3,1,Yes
+EMP0716,Manager,No,14504,4,20,4,4,1,3,No
+EMP0717,Laboratory Technician,No,3211,1,15,7,6,1,4,No
+EMP0718,Laboratory Technician,Yes,3130,1,14,8,6,4,4,Yes
+EMP0719,Manufacturing Director,Yes,18464,5,4,4,4,3,1,No
+EMP0720,Manufacturing Director,Yes,19225,5,2,2,1,3,2,No
+EMP0721,Healthcare Representative,Yes,5683,3,13,7,3,1,3,Yes
+EMP0722,Healthcare Representative,Yes,4829,3,10,1,0,2,1,Yes
+EMP0723,Laboratory Technician,No,3599,1,2,2,2,1,3,Yes
+EMP0724,Manager,No,14157,5,17,10,6,2,3,Yes
+EMP0725,Human Resources,No,3099,1,15,0,2,1,4,No
+EMP0726,Manufacturing Director,No,19087,5,19,8,1,1,1,No
+EMP0727,Manager,Yes,11458,5,1,1,1,2,1,Yes
+EMP0728,Manager,No,11255,5,7,4,7,4,1,No
+EMP0729,Research Scientist,No,4821,1,4,4,3,4,1,No
+EMP0730,Manager,Yes,19667,4,15,8,2,4,2,Yes
+EMP0731,Sales Representative,No,6252,3,5,1,4,3,4,No
+EMP0732,Laboratory Technician,Yes,4272,1,6,6,5,1,4,No
+EMP0733,Manufacturing Director,No,12128,5,12,3,6,1,4,No
+EMP0734,Manufacturing Director,No,11500,5,6,1,3,2,1,No
+EMP0735,Laboratory Technician,No,2348,1,3,3,3,3,2,No
+EMP0736,Manufacturing Director,No,15541,4,2,2,2,4,1,Yes
+EMP0737,Healthcare Representative,Yes,9856,2,8,7,8,2,4,No
+EMP0738,Laboratory Technician,No,3781,1,1,1,1,1,4,Yes
+EMP0739,Sales Executive,No,9829,2,11,5,0,1,3,No
+EMP0740,Manufacturing Director,Yes,11488,5,11,7,4,3,2,No
+EMP0741,Laboratory Technician,No,3512,1,20,7,0,3,2,Yes
+EMP0742,Sales Representative,No,9318,3,16,0,3,4,4,No
+EMP0743,Sales Representative,No,7223,2,10,7,7,3,1,No
+EMP0744,Sales Representative,Yes,8640,3,4,1,4,4,1,Yes
+EMP0745,Healthcare Representative,Yes,8133,2,7,7,5,2,1,Yes
+EMP0746,Healthcare Representative,No,6362,3,7,7,4,2,3,No
+EMP0747,Manager,No,16695,4,17,5,1,4,2,Yes
+EMP0748,Healthcare Representative,No,5455,2,14,3,0,3,3,No
+EMP0749,Laboratory Technician,No,3738,1,6,0,0,2,4,Yes
+EMP0750,Manufacturing Director,Yes,19570,4,3,2,0,3,4,Yes
+EMP0751,Manager,No,14000,4,8,7,5,4,3,No
+EMP0752,Laboratory Technician,No,3321,1,18,6,8,4,1,Yes
+EMP0753,Sales Representative,No,5655,2,11,5,1,1,2,No
+EMP0754,Sales Executive,No,5126,3,11,3,0,2,1,No
+EMP0755,Laboratory Technician,Yes,3455,1,11,6,3,2,2,Yes
+EMP0756,Manager,Yes,14173,5,3,2,3,1,4,Yes
+EMP0757,Manager,No,11959,4,20,2,3,2,4,Yes
+EMP0758,Manager,No,12898,5,8,2,8,2,1,No
+EMP0759,Sales Representative,No,7568,2,12,2,2,4,1,No
+EMP0760,Manager,No,13516,5,8,6,8,2,3,No
+EMP0761,Research Director,Yes,16004,5,6,1,5,2,4,Yes
+EMP0762,Human Resources,Yes,4891,1,12,8,5,1,4,No
+EMP0763,Manager,No,12767,4,6,2,6,4,4,No
+EMP0764,Research Director,No,15900,5,14,2,0,2,4,No
+EMP0765,Healthcare Representative,Yes,5866,2,8,8,7,2,4,No
+EMP0766,Research Scientist,No,2485,1,17,0,4,1,2,Yes
+EMP0767,Research Scientist,No,2963,1,18,0,2,4,1,No
+EMP0768,Manager,Yes,19190,5,19,3,5,3,1,No
+EMP0769,Manufacturing Director,No,15266,5,5,5,5,4,2,No
+EMP0770,Healthcare Representative,No,7216,3,20,3,5,4,1,Yes
+EMP0771,Sales Executive,No,7988,3,1,1,1,2,4,Yes
+EMP0772,Manager,No,19535,4,5,1,4,1,3,No
+EMP0773,Research Director,Yes,12583,4,19,7,5,4,4,No
+EMP0774,Healthcare Representative,No,8445,2,9,5,0,2,1,No
+EMP0775,Healthcare Representative,No,7180,2,0,0,0,4,4,No
+EMP0776,Sales Executive,No,6966,2,16,5,3,2,1,No
+EMP0777,Manufacturing Director,Yes,19866,4,8,2,2,2,1,Yes
+EMP0778,Sales Executive,No,6318,3,6,6,2,3,4,No
+EMP0779,Manager,No,15619,4,5,5,0,2,1,No
+EMP0780,Sales Representative,No,9873,3,15,8,8,2,3,No
+EMP0781,Research Director,No,11753,5,2,1,2,4,2,No
+EMP0782,Healthcare Representative,No,5344,2,14,3,3,2,4,No
+EMP0783,Research Director,No,16976,5,15,5,8,2,1,No
+EMP0784,Laboratory Technician,No,3075,1,1,1,1,1,4,No
+EMP0785,Research Scientist,No,3003,1,16,0,1,2,3,No
+EMP0786,Manager,Yes,17292,5,4,4,3,2,2,Yes
+EMP0787,Sales Representative,No,10096,2,7,5,4,3,1,Yes
+EMP0788,Manager,No,15665,5,12,7,8,2,4,Yes
+EMP0789,Research Scientist,No,4578,1,5,5,3,4,4,No
+EMP0790,Manager,No,16090,5,9,3,8,4,2,No
+EMP0791,Research Scientist,Yes,4777,1,0,0,0,2,2,No
+EMP0792,Research Scientist,No,2633,1,18,6,4,3,1,No
+EMP0793,Manager,Yes,12908,5,16,8,5,4,1,No
+EMP0794,Healthcare Representative,Yes,9262,2,6,6,4,3,2,No
+EMP0795,Research Scientist,No,4262,1,8,3,8,3,2,Yes
+EMP0796,Research Director,Yes,18334,5,19,9,1,4,1,Yes
+EMP0797,Laboratory Technician,Yes,2772,1,3,3,2,4,1,No
+EMP0798,Research Director,Yes,19167,5,12,4,4,2,3,No
+EMP0799,Sales Representative,No,7638,3,9,3,7,4,1,Yes
+EMP0800,Manager,No,19243,5,2,2,2,1,1,No
+EMP0801,Sales Representative,No,7474,2,2,2,2,4,4,No
+EMP0802,Sales Executive,Yes,6318,2,16,6,6,4,1,No
+EMP0803,Laboratory Technician,No,3293,1,16,6,2,3,2,No
+EMP0804,Manufacturing Director,No,11429,4,7,3,7,2,4,No
+EMP0805,Manufacturing Director,Yes,11946,5,5,5,5,1,4,No
+EMP0806,Laboratory Technician,No,4088,1,2,2,1,1,1,Yes
+EMP0807,Healthcare Representative,No,6095,2,11,8,1,1,3,No
+EMP0808,Research Scientist,Yes,4948,1,20,0,1,3,3,No
+EMP0809,Research Scientist,No,4299,1,3,3,0,4,3,No
+EMP0810,Manager,No,11732,5,12,3,0,4,1,No
+EMP0811,Manager,No,18338,4,11,5,2,2,4,No
+EMP0812,Manager,No,11005,5,3,3,2,1,4,Yes
+EMP0813,Sales Representative,No,7154,3,1,1,1,3,3,Yes
+EMP0814,Research Director,Yes,19912,4,8,1,7,3,2,No
+EMP0815,Research Scientist,No,3654,1,3,1,3,2,4,No
+EMP0816,Research Scientist,Yes,4251,1,14,0,3,3,4,Yes
+EMP0817,Healthcare Representative,Yes,7035,3,5,5,5,3,3,No
+EMP0818,Sales Executive,Yes,9690,3,7,7,2,1,1,Yes
+EMP0819,Sales Representative,Yes,6774,3,14,5,5,3,3,No
+EMP0820,Manager,No,11733,5,6,4,6,4,2,No
+EMP0821,Research Director,No,18309,4,2,2,1,1,2,No
+EMP0822,Research Scientist,No,3649,1,6,6,5,2,2,Yes
+EMP0823,Manager,No,18027,5,1,1,1,2,2,No
+EMP0824,Sales Executive,No,4828,2,18,6,3,2,4,No
+EMP0825,Manager,No,18646,5,2,2,2,4,2,Yes
+EMP0826,Human Resources,No,3403,1,3,3,3,1,3,Yes
+EMP0827,Manager,No,19241,5,5,5,5,4,3,No
+EMP0828,Manager,Yes,12263,4,14,4,0,2,3,No
+EMP0829,Sales Representative,Yes,4743,2,12,3,3,4,4,No
+EMP0830,Sales Executive,No,4671,2,4,2,4,2,4,No
+EMP0831,Manufacturing Director,No,17451,4,4,1,4,2,2,Yes
+EMP0832,Manager,No,11694,5,12,6,3,3,4,No
+EMP0833,Manufacturing Director,Yes,11969,4,10,5,4,1,2,No
+EMP0834,Research Director,Yes,13333,4,4,4,2,3,1,No
+EMP0835,Manager,No,17221,5,4,3,1,1,1,Yes
+EMP0836,Research Scientist,No,4522,1,13,8,5,2,4,No
+EMP0837,Manager,No,11250,5,19,1,8,1,1,Yes
+EMP0838,Healthcare Representative,Yes,6979,3,4,4,0,3,4,No
+EMP0839,Manager,Yes,19059,5,12,2,6,4,2,Yes
+EMP0840,Sales Executive,No,5053,3,10,5,5,3,4,No
+EMP0841,Manufacturing Director,No,15046,5,12,2,8,2,1,No
+EMP0842,Research Director,Yes,19354,4,12,5,3,2,4,Yes
+EMP0843,Sales Executive,No,5643,2,2,2,1,4,3,Yes
+EMP0844,Healthcare Representative,Yes,6960,3,6,1,0,4,2,No
+EMP0845,Manufacturing Director,No,14904,5,4,0,4,4,4,No
+EMP0846,Human Resources,No,4857,1,10,0,8,2,1,Yes
+EMP0847,Sales Executive,Yes,9148,3,20,1,4,3,2,No
+EMP0848,Research Scientist,Yes,2427,1,2,2,0,2,3,Yes
+EMP0849,Manager,No,14342,5,12,0,4,3,2,No
+EMP0850,Laboratory Technician,No,3309,1,8,1,0,3,3,No
+EMP0851,Research Director,No,12883,4,11,3,4,2,3,No
+EMP0852,Sales Executive,Yes,6663,2,0,0,0,2,3,Yes
+EMP0853,Sales Executive,No,8533,3,15,10,3,1,3,No
+EMP0854,Research Scientist,Yes,2351,1,4,4,4,4,3,No
+EMP0855,Sales Executive,Yes,9546,3,0,0,0,2,1,No
+EMP0856,Human Resources,Yes,3276,1,0,0,0,4,1,Yes
+EMP0857,Sales Representative,Yes,8911,3,13,5,5,4,4,Yes
+EMP0858,Research Director,Yes,15130,5,7,0,1,1,2,No
+EMP0859,Research Director,Yes,13915,4,9,1,3,4,2,Yes
+EMP0860,Manufacturing Director,No,15003,5,10,4,6,4,2,No
+EMP0861,Research Director,No,17992,5,3,3,3,1,4,No
+EMP0862,Manufacturing Director,No,12553,4,1,1,1,2,3,Yes
+EMP0863,Manager,No,11396,5,6,1,6,2,1,Yes
+EMP0864,Manufacturing Director,No,18661,4,2,2,1,3,4,No
+EMP0865,Manufacturing Director,No,18073,5,5,2,2,4,2,No
+EMP0866,Sales Representative,Yes,10113,2,16,6,1,1,1,Yes
+EMP0867,Manager,No,19527,4,5,5,5,3,4,Yes
+EMP0868,Sales Executive,No,5817,3,15,4,5,2,1,No
+EMP0869,Manager,No,13428,5,4,4,4,1,2,Yes
+EMP0870,Laboratory Technician,No,3404,1,5,3,0,2,3,Yes
+EMP0871,Healthcare Representative,No,8067,2,14,0,6,2,1,Yes
+EMP0872,Sales Representative,No,7468,2,6,6,6,4,3,No
+EMP0873,Research Director,No,15992,4,6,0,1,4,2,No
+EMP0874,Human Resources,Yes,2940,1,0,0,0,4,3,Yes
+EMP0875,Research Director,Yes,14096,5,9,6,6,1,4,Yes
+EMP0876,Manager,No,19687,5,4,3,3,3,2,No
+EMP0877,Research Director,No,19652,4,9,1,1,1,3,No
+EMP0878,Sales Executive,Yes,5275,2,17,9,3,2,4,Yes
+EMP0879,Healthcare Representative,Yes,4721,3,12,4,0,3,3,Yes
+EMP0880,Research Director,No,12764,5,0,0,0,1,1,Yes
+EMP0881,Sales Executive,No,9020,2,7,5,7,3,3,No
+EMP0882,Research Director,Yes,11563,5,18,5,7,1,1,Yes
+EMP0883,Sales Representative,No,7146,3,6,6,6,3,3,No
+EMP0884,Human Resources,Yes,4447,1,15,5,6,2,1,No
+EMP0885,Laboratory Technician,No,2965,1,5,5,1,2,4,No
+EMP0886,Manager,No,12386,4,5,0,5,1,4,No
+EMP0887,Manufacturing Director,No,19405,4,20,10,2,2,1,No
+EMP0888,Laboratory Technician,No,2687,1,8,7,1,4,4,No
+EMP0889,Laboratory Technician,Yes,4045,1,14,1,5,2,2,Yes
+EMP0890,Manager,Yes,13529,5,20,10,8,1,1,No
+EMP0891,Laboratory Technician,No,3374,1,17,9,2,3,4,No
+EMP0892,Sales Representative,Yes,9823,2,12,3,8,4,4,No
+EMP0893,Laboratory Technician,No,4174,1,3,2,3,3,4,No
+EMP0894,Manager,No,15242,4,13,9,1,1,2,Yes
+EMP0895,Sales Executive,No,7898,3,8,2,0,4,2,Yes
+EMP0896,Laboratory Technician,Yes,4402,1,17,6,1,1,4,No
+EMP0897,Sales Representative,No,8010,3,12,2,3,4,4,Yes
+EMP0898,Research Director,Yes,17429,5,14,5,0,4,4,Yes
+EMP0899,Research Scientist,Yes,2786,1,3,0,3,3,1,Yes
+EMP0900,Research Scientist,No,3489,1,7,0,5,2,1,Yes
+EMP0901,Sales Executive,No,7685,2,13,10,5,2,2,No
+EMP0902,Manager,No,11382,4,16,4,2,4,3,No
+EMP0903,Manufacturing Director,Yes,12373,5,3,3,3,4,3,Yes
+EMP0904,Manager,Yes,18120,4,12,7,8,3,4,No
+EMP0905,Research Scientist,Yes,4325,1,1,1,1,3,2,No
+EMP0906,Manager,No,12609,5,14,3,5,3,3,No
+EMP0907,Manager,Yes,17478,5,0,0,0,3,1,No
+EMP0908,Sales Representative,No,4513,3,0,0,0,2,1,No
+EMP0909,Manufacturing Director,No,13451,4,3,3,3,2,4,No
+EMP0910,Manager,Yes,12156,5,10,3,3,3,2,No
+EMP0911,Manager,No,15872,5,9,8,4,3,2,No
+EMP0912,Manufacturing Director,No,18559,4,0,0,0,4,3,No
+EMP0913,Manager,Yes,14145,4,0,0,0,1,1,No
+EMP0914,Human Resources,No,4373,1,14,3,2,4,2,No
+EMP0915,Laboratory Technician,No,3607,1,1,1,1,4,2,No
+EMP0916,Healthcare Representative,No,7098,3,8,8,1,1,1,Yes
+EMP0917,Research Director,Yes,15314,5,9,4,3,4,2,No
+EMP0918,Manager,No,15917,5,2,0,2,4,4,Yes
+EMP0919,Sales Executive,No,4921,2,7,7,5,1,4,No
+EMP0920,Sales Representative,No,7487,3,14,3,6,1,1,No
+EMP0921,Healthcare Representative,No,10471,2,14,0,8,1,4,No
+EMP0922,Research Scientist,No,4227,1,17,7,1,2,1,Yes
+EMP0923,Research Scientist,No,2223,1,2,2,2,1,4,No
+EMP0924,Healthcare Representative,Yes,10268,2,1,1,1,3,2,Yes
+EMP0925,Manager,No,16131,5,2,1,2,4,4,Yes
+EMP0926,Sales Executive,No,8137,3,2,0,2,4,3,No
+EMP0927,Manager,Yes,19830,4,9,5,3,4,2,No
+EMP0928,Manager,Yes,16974,4,7,4,3,2,2,No
+EMP0929,Manufacturing Director,Yes,12132,4,20,1,8,3,4,Yes
+EMP0930,Sales Executive,No,7034,2,7,7,7,4,3,No
+EMP0931,Research Scientist,No,3645,1,0,0,0,3,3,Yes
+EMP0932,Research Director,Yes,19796,5,9,9,1,1,2,No
+EMP0933,Sales Executive,Yes,8326,2,7,7,0,1,3,Yes
+EMP0934,Manager,No,15652,5,17,2,6,3,2,Yes
+EMP0935,Manager,No,13923,5,11,1,4,3,3,No
+EMP0936,Research Scientist,Yes,4988,1,14,6,6,1,1,No
+EMP0937,Sales Executive,No,7164,3,10,8,2,2,4,Yes
+EMP0938,Research Director,No,13927,4,13,5,3,1,1,No
+EMP0939,Manager,Yes,13716,5,13,9,8,1,3,Yes
+EMP0940,Manager,No,17956,4,12,3,1,1,4,Yes
+EMP0941,Manufacturing Director,No,17452,5,14,6,1,3,3,Yes
+EMP0942,Manufacturing Director,No,15367,5,4,4,4,2,1,Yes
+EMP0943,Research Scientist,Yes,2430,1,3,3,3,1,2,No
+EMP0944,Manufacturing Director,No,16155,5,17,2,5,2,3,No
+EMP0945,Manager,No,18064,4,6,5,4,3,4,No
+EMP0946,Sales Representative,No,5255,2,9,7,4,1,2,No
+EMP0947,Research Director,Yes,18206,4,4,4,3,3,1,No
+EMP0948,Human Resources,No,2315,1,11,3,4,1,1,No
+EMP0949,Healthcare Representative,Yes,5034,2,14,0,2,1,3,No
+EMP0950,Manager,Yes,11176,5,0,0,0,3,3,Yes
+EMP0951,Research Scientist,No,2746,1,12,9,6,2,2,Yes
+EMP0952,Sales Representative,No,10064,3,14,4,8,4,1,Yes
+EMP0953,Sales Executive,No,5562,2,20,0,1,2,1,No
+EMP0954,Healthcare Representative,No,6963,3,5,1,2,1,3,No
+EMP0955,Healthcare Representative,No,9431,3,7,7,7,4,1,No
+EMP0956,Research Director,No,11904,4,19,4,3,3,3,No
+EMP0957,Sales Representative,No,9552,3,0,0,0,3,2,Yes
+EMP0958,Manufacturing Director,No,19859,4,13,10,5,2,3,Yes
+EMP0959,Manufacturing Director,No,17128,4,9,7,5,2,3,No
+EMP0960,Sales Executive,No,8380,2,13,0,6,3,4,No
+EMP0961,Manager,Yes,17736,4,12,9,3,1,2,Yes
+EMP0962,Research Scientist,No,3067,1,15,4,2,2,3,Yes
+EMP0963,Manager,No,13270,5,4,4,4,2,4,No
+EMP0964,Healthcare Representative,No,5908,3,4,4,4,1,2,No
+EMP0965,Research Scientist,No,4094,1,6,6,6,4,2,No
+EMP0966,Laboratory Technician,No,4908,1,12,10,4,2,1,No
+EMP0967,Manufacturing Director,No,16358,5,9,4,6,1,4,No
+EMP0968,Healthcare Representative,No,7574,3,10,9,4,2,3,Yes
+EMP0969,Manager,Yes,11591,5,5,5,4,3,4,No
+EMP0970,Manager,No,15530,4,19,4,5,4,2,No
+EMP0971,Manager,No,18875,5,2,1,2,4,4,No
+EMP0972,Sales Executive,No,5350,2,10,5,4,1,3,No
+EMP0973,Sales Executive,No,10227,3,19,10,7,2,3,No
+EMP0974,Sales Representative,No,7449,3,8,3,3,2,3,Yes
+EMP0975,Sales Representative,Yes,7704,3,17,1,4,2,4,No
+EMP0976,Healthcare Representative,No,7961,3,4,0,2,3,4,No
+EMP0977,Manager,No,12742,5,6,6,0,1,3,No
+EMP0978,Sales Representative,Yes,6578,3,6,6,0,2,4,No
+EMP0979,Research Director,No,19511,5,11,4,6,3,1,No
+EMP0980,Laboratory Technician,No,3153,1,17,8,4,1,3,Yes
+EMP0981,Manager,No,18996,4,11,3,0,4,4,No
+EMP0982,Manager,No,15773,5,19,8,4,4,4,No
+EMP0983,Sales Executive,No,7188,3,7,7,5,1,3,No
+EMP0984,Laboratory Technician,Yes,2414,1,6,6,6,1,1,Yes
+EMP0985,Manager,No,19728,4,2,2,2,2,1,No
+EMP0986,Research Director,Yes,17672,4,6,6,5,1,1,No
+EMP0987,Laboratory Technician,Yes,4111,1,0,0,0,3,3,Yes
+EMP0988,Manager,Yes,14538,4,7,2,0,1,1,No
+EMP0989,Sales Executive,Yes,5685,3,8,7,3,3,2,No
+EMP0990,Sales Representative,No,6242,2,8,2,2,1,4,No
+EMP0991,Sales Representative,No,4754,2,6,4,3,2,3,No
+EMP0992,Healthcare Representative,No,6129,3,17,6,0,4,4,No
+EMP0993,Manager,No,13425,4,8,8,6,1,3,Yes
+EMP0994,Research Director,Yes,16802,5,19,3,4,1,1,Yes
+EMP0995,Manager,No,13131,4,3,3,3,3,1,No
+EMP0996,Manufacturing Director,No,18722,5,3,3,0,2,1,No
+EMP0997,Research Scientist,No,3396,1,2,2,2,1,3,Yes
+EMP0998,Laboratory Technician,No,2966,1,0,0,0,4,1,Yes
+EMP0999,Sales Executive,No,6541,3,11,6,0,4,4,No
+EMP1000,Sales Representative,No,6117,3,12,10,7,4,4,No
+EMP1001,Manager,Yes,17316,5,15,8,3,4,3,Yes
+EMP1002,Laboratory Technician,No,3436,1,2,2,1,4,4,No
+EMP1003,Sales Executive,No,7158,3,0,0,0,3,4,Yes
+EMP1004,Healthcare Representative,No,7046,2,10,2,3,4,1,Yes
+EMP1005,Research Scientist,Yes,3806,1,7,1,1,4,2,No
+EMP1006,Manufacturing Director,Yes,11704,4,17,9,4,1,2,No
+EMP1007,Laboratory Technician,No,2729,1,5,5,5,3,2,Yes
+EMP1008,Sales Executive,No,8852,2,5,5,5,1,1,Yes
+EMP1009,Manager,No,17562,4,7,7,2,1,4,No
+EMP1010,Manager,No,19077,5,3,3,0,2,2,No
+EMP1011,Manager,No,12243,5,15,4,6,2,1,No
+EMP1012,Laboratory Technician,No,4719,1,15,10,2,4,2,No
+EMP1013,Healthcare Representative,No,6530,3,8,8,5,4,1,No
+EMP1014,Manager,No,17923,5,5,5,5,3,3,No
+EMP1015,Research Director,Yes,16367,5,3,3,3,2,1,No
+EMP1016,Manufacturing Director,No,18421,5,17,4,5,4,3,No
+EMP1017,Sales Executive,Yes,7649,2,20,0,2,2,2,Yes
+EMP1018,Research Scientist,Yes,4420,1,3,1,3,1,2,No
+EMP1019,Sales Executive,Yes,10181,2,3,2,1,1,2,Yes
+EMP1020,Sales Representative,No,9147,3,1,0,1,4,3,No
+EMP1021,Sales Representative,Yes,7500,2,10,0,1,4,2,Yes
+EMP1022,Laboratory Technician,No,4871,1,0,0,0,4,2,No
+EMP1023,Laboratory Technician,No,3073,1,3,3,3,4,3,Yes
+EMP1024,Manager,Yes,15992,5,20,6,1,4,2,No
+EMP1025,Sales Executive,No,7456,2,12,6,1,4,1,No
+EMP1026,Manufacturing Director,No,12326,5,8,5,6,3,3,No
+EMP1027,Research Director,No,14659,5,15,5,3,4,1,Yes
+EMP1028,Sales Representative,Yes,7480,3,15,7,4,2,3,No
+EMP1029,Healthcare Representative,Yes,4782,2,2,2,2,1,3,No
+EMP1030,Manufacturing Director,No,15196,5,0,0,0,1,2,No
+EMP1031,Sales Representative,No,9074,2,4,1,3,1,4,No
+EMP1032,Research Scientist,No,4931,1,1,0,1,2,3,Yes
+EMP1033,Manager,No,16947,4,8,6,5,2,3,No
+EMP1034,Manager,Yes,11820,4,16,10,4,3,2,Yes
+EMP1035,Manufacturing Director,Yes,19806,5,1,1,1,4,4,No
+EMP1036,Research Scientist,No,4773,1,1,1,1,1,4,No
+EMP1037,Healthcare Representative,Yes,9749,3,8,5,7,4,2,No
+EMP1038,Manager,No,12031,5,9,5,3,1,4,No
+EMP1039,Manager,No,18665,5,0,0,0,3,1,No
+EMP1040,Laboratory Technician,No,4961,1,8,8,2,2,3,No
+EMP1041,Sales Executive,Yes,8392,2,2,1,2,1,1,No
+EMP1042,Manager,Yes,19504,5,8,8,4,1,4,No
+EMP1043,Healthcare Representative,Yes,9370,3,18,5,6,4,1,No
+EMP1044,Healthcare Representative,No,6890,3,10,6,3,3,3,No
+EMP1045,Manager,No,13438,5,3,3,0,1,2,No
+EMP1046,Sales Executive,No,9902,3,18,4,4,4,3,No
+EMP1047,Research Scientist,Yes,3761,1,9,6,6,2,2,No
+EMP1048,Manager,No,14004,5,7,4,2,2,1,No
+EMP1049,Research Director,No,17473,4,5,0,3,1,1,No
+EMP1050,Research Scientist,No,3295,1,3,3,3,2,1,No
+EMP1051,Sales Representative,No,10137,2,18,10,8,2,2,Yes
+EMP1052,Manufacturing Director,Yes,17798,5,2,2,2,3,2,No
+EMP1053,Research Director,No,17239,5,12,3,8,3,3,No
+EMP1054,Manager,Yes,19018,5,0,0,0,1,4,Yes
+EMP1055,Laboratory Technician,No,3783,1,7,7,4,2,3,No
+EMP1056,Manager,No,17652,4,5,4,2,3,4,No
+EMP1057,Sales Executive,Yes,5010,2,12,7,3,1,2,Yes
+EMP1058,Sales Executive,No,7040,3,9,0,1,2,3,No
+EMP1059,Human Resources,Yes,3086,1,18,8,8,3,3,No
+EMP1060,Healthcare Representative,No,4638,3,19,4,0,4,3,No
+EMP1061,Sales Representative,No,10311,3,16,10,1,2,2,No
+EMP1062,Sales Executive,Yes,6051,3,16,9,1,3,3,No
+EMP1063,Sales Executive,Yes,5199,2,13,10,4,4,3,Yes
+EMP1064,Manager,No,11427,4,14,5,0,3,2,No
+EMP1065,Manager,Yes,19035,5,6,6,6,1,3,Yes
+EMP1066,Sales Representative,Yes,9956,2,11,1,7,4,1,Yes
+EMP1067,Research Director,No,19678,4,13,8,8,1,1,Yes
+EMP1068,Manager,Yes,12812,4,2,2,2,2,3,Yes
+EMP1069,Sales Executive,Yes,9025,2,18,3,3,3,1,No
+EMP1070,Human Resources,No,4128,1,7,7,3,3,3,No
+EMP1071,Manager,Yes,17210,4,7,5,1,3,4,No
+EMP1072,Sales Representative,Yes,10481,3,6,4,6,3,4,No
+EMP1073,Manager,No,11779,4,11,2,4,2,1,No
+EMP1074,Sales Executive,No,5925,2,0,0,0,2,1,Yes
+EMP1075,Manager,No,14243,5,2,0,2,2,4,No
+EMP1076,Research Scientist,Yes,2502,1,1,1,1,4,3,Yes
+EMP1077,Healthcare Representative,No,10254,2,0,0,0,3,2,No
+EMP1078,Healthcare Representative,Yes,4661,3,19,8,4,1,2,No
+EMP1079,Manufacturing Director,No,12193,4,14,7,7,3,4,No
+EMP1080,Manager,No,12597,5,0,0,0,4,3,No
+EMP1081,Research Director,Yes,17042,4,10,4,2,4,3,Yes
+EMP1082,Sales Executive,No,7536,2,8,2,4,2,4,No
+EMP1083,Sales Executive,Yes,8714,2,8,6,1,2,1,No
+EMP1084,Healthcare Representative,Yes,4996,3,2,2,2,4,4,No
+EMP1085,Manager,No,18304,5,10,0,6,1,3,No
+EMP1086,Human Resources,No,2540,1,1,1,1,1,3,Yes
+EMP1087,Manager,No,18793,5,13,4,7,2,3,No
+EMP1088,Manufacturing Director,No,13013,5,10,5,4,3,4,No
+EMP1089,Sales Executive,No,7681,3,2,2,2,3,3,No
+EMP1090,Manufacturing Director,No,15269,5,6,5,6,2,3,No
+EMP1091,Research Scientist,Yes,4066,1,0,0,0,3,4,No
+EMP1092,Research Director,No,16111,5,13,8,3,4,3,No
+EMP1093,Manager,Yes,11710,5,3,3,3,4,1,No
+EMP1094,Healthcare Representative,No,9017,2,7,7,7,4,3,No
+EMP1095,Laboratory Technician,No,3847,1,7,4,1,2,2,No
+EMP1096,Manager,Yes,18299,4,4,4,4,3,3,No
+EMP1097,Manager,No,19115,4,11,10,3,2,1,No
+EMP1098,Manager,No,19575,5,5,5,2,4,1,No
+EMP1099,Manager,No,13304,4,4,4,0,1,3,No
+EMP1100,Research Scientist,No,2601,1,3,3,3,1,1,Yes
+EMP1101,Manager,No,14666,5,9,3,5,3,1,No
+EMP1102,Sales Executive,No,4874,2,15,2,6,3,1,No
+EMP1103,Manufacturing Director,Yes,14967,4,18,9,0,2,1,Yes
+EMP1104,Manager,No,16350,5,0,0,0,2,4,Yes
+EMP1105,Human Resources,Yes,3048,1,14,4,3,4,4,Yes
+EMP1106,Manager,No,16932,4,3,0,3,1,1,No
+EMP1107,Research Director,Yes,16823,4,3,3,0,3,3,Yes
+EMP1108,Manager,No,12429,5,1,1,1,3,4,No
+EMP1109,Healthcare Representative,No,8862,3,11,7,7,1,1,No
+EMP1110,Sales Representative,No,7634,3,19,7,1,1,3,Yes
+EMP1111,Manager,No,15540,4,10,3,0,2,2,Yes
+EMP1112,Manufacturing Director,No,17363,4,5,5,5,1,1,No
+EMP1113,Sales Representative,No,4609,3,19,9,5,2,4,No
+EMP1114,Manager,Yes,16654,5,7,4,1,1,3,No
+EMP1115,Research Scientist,No,4246,1,3,3,3,2,1,No
+EMP1116,Laboratory Technician,Yes,2718,1,12,5,7,2,3,Yes
+EMP1117,Sales Executive,Yes,5326,2,0,0,0,2,1,Yes
+EMP1118,Laboratory Technician,Yes,2720,1,9,6,7,4,1,No
+EMP1119,Manager,No,12351,4,20,2,8,4,1,No
+EMP1120,Sales Representative,Yes,5393,2,3,0,3,1,2,No
+EMP1121,Laboratory Technician,No,2482,1,2,2,1,1,4,Yes
+EMP1122,Research Scientist,Yes,4455,1,16,2,8,4,3,No
+EMP1123,Manager,No,15477,4,11,1,3,3,4,No
+EMP1124,Sales Representative,No,10221,3,3,2,3,3,2,No
+EMP1125,Manager,Yes,15601,4,2,2,2,1,3,No
+EMP1126,Research Director,Yes,14496,5,12,5,6,2,4,Yes
+EMP1127,Sales Executive,No,4970,3,9,0,0,3,1,Yes
+EMP1128,Research Scientist,No,4106,1,4,4,4,2,1,Yes
+EMP1129,Sales Executive,No,4569,3,6,6,1,3,2,No
+EMP1130,Manufacturing Director,No,11257,5,5,5,5,1,1,No
+EMP1131,Research Director,No,17104,4,3,3,3,2,4,No
+EMP1132,Research Scientist,No,4402,1,9,1,7,3,4,No
+EMP1133,Healthcare Representative,Yes,5368,2,7,2,7,3,2,Yes
+EMP1134,Research Scientist,No,4216,1,16,6,4,4,3,No
+EMP1135,Laboratory Technician,No,2806,1,14,7,6,1,3,No
+EMP1136,Sales Representative,No,6290,2,8,6,1,4,3,No
+EMP1137,Research Scientist,No,3507,1,0,0,0,2,3,No
+EMP1138,Manufacturing Director,No,16043,5,9,7,5,1,1,No
+EMP1139,Sales Representative,No,8345,2,19,8,2,3,3,No
+EMP1140,Sales Representative,Yes,6314,3,3,3,3,1,3,No
+EMP1141,Research Scientist,No,4844,1,0,0,0,2,1,No
+EMP1142,Sales Representative,No,9852,2,7,1,4,3,1,No
+EMP1143,Research Scientist,No,3922,1,7,7,7,3,1,Yes
+EMP1144,Laboratory Technician,No,4296,1,3,3,2,3,3,No
+EMP1145,Sales Representative,No,8652,2,16,10,2,4,3,No
+EMP1146,Manufacturing Director,No,18887,4,2,2,2,1,4,No
+EMP1147,Healthcare Representative,No,6594,3,16,7,7,1,4,No
+EMP1148,Sales Representative,Yes,5896,2,2,1,2,4,1,No
+EMP1149,Research Director,No,15146,5,2,2,1,2,3,Yes
+EMP1150,Manager,No,16965,4,5,5,5,3,1,No
+EMP1151,Laboratory Technician,No,4849,1,5,4,5,2,1,Yes
+EMP1152,Sales Representative,No,5143,3,7,2,7,1,4,No
+EMP1153,Manager,Yes,19363,4,8,4,2,2,1,Yes
+EMP1154,Manager,Yes,14008,4,9,0,6,4,2,No
+EMP1155,Laboratory Technician,Yes,3082,1,7,3,1,4,3,Yes
+EMP1156,Laboratory Technician,No,2981,1,11,2,0,1,1,No
+EMP1157,Research Scientist,No,3307,1,10,10,3,4,4,No
+EMP1158,Research Scientist,No,2224,1,9,9,1,1,2,No
+EMP1159,Manufacturing Director,No,18204,4,10,6,5,3,3,No
+EMP1160,Research Scientist,No,3203,1,1,1,1,4,3,No
+EMP1161,Laboratory Technician,No,3868,1,15,3,4,2,4,No
+EMP1162,Manager,Yes,16319,5,12,0,6,1,1,No
+EMP1163,Manufacturing Director,Yes,16602,5,6,1,6,4,3,Yes
+EMP1164,Manager,Yes,12452,4,20,9,0,1,4,No
+EMP1165,Manager,No,16673,5,19,9,1,2,4,No
+EMP1166,Manager,No,19419,5,7,5,1,1,3,No
+EMP1167,Healthcare Representative,No,5895,3,10,4,3,4,2,No
+EMP1168,Manufacturing Director,Yes,19773,4,6,2,2,3,3,Yes
+EMP1169,Manager,Yes,19742,5,0,0,0,2,4,Yes
+EMP1170,Manufacturing Director,No,16293,5,13,3,7,1,3,No
+EMP1171,Manager,No,13343,4,9,8,5,3,3,No
+EMP1172,Manufacturing Director,No,15514,4,1,1,1,1,3,Yes
+EMP1173,Sales Executive,No,5644,3,14,9,6,4,2,No
+EMP1174,Manager,No,16437,4,4,1,4,2,3,Yes
+EMP1175,Sales Representative,Yes,9484,2,1,1,1,1,4,No
+EMP1176,Research Director,Yes,13017,4,0,0,0,2,1,Yes
+EMP1177,Manufacturing Director,No,17441,5,6,3,4,1,1,No
+EMP1178,Manager,No,14935,4,1,1,1,1,1,Yes
+EMP1179,Laboratory Technician,No,2386,1,4,0,4,1,2,No
+EMP1180,Sales Executive,No,8793,3,7,7,6,4,3,No
+EMP1181,Manager,No,11793,4,17,9,0,1,2,No
+EMP1182,Manager,Yes,14599,4,5,3,1,4,2,Yes
+EMP1183,Manager,No,12426,4,3,3,1,4,1,No
+EMP1184,Manager,No,19996,4,5,2,5,4,3,Yes
+EMP1185,Sales Representative,Yes,10485,2,12,10,5,1,4,Yes
+EMP1186,Manager,No,12264,5,12,10,6,4,3,No
+EMP1187,Sales Representative,No,10075,2,15,4,4,1,1,Yes
+EMP1188,Research Scientist,Yes,3301,1,20,3,0,2,1,Yes
+EMP1189,Research Director,Yes,11061,5,13,3,8,2,3,Yes
+EMP1190,Manager,No,19898,5,15,10,4,4,4,No
+EMP1191,Laboratory Technician,No,4411,1,18,0,6,1,3,No
+EMP1192,Research Director,No,16675,5,11,10,4,2,4,No
+EMP1193,Sales Executive,No,8206,3,12,6,2,3,2,No
+EMP1194,Manufacturing Director,Yes,12291,5,11,6,3,2,1,No
+EMP1195,Manager,No,17023,5,6,3,4,2,1,No
+EMP1196,Laboratory Technician,Yes,3183,1,8,8,0,4,2,Yes
+EMP1197,Sales Representative,No,5697,3,18,2,8,4,3,Yes
+EMP1198,Manager,No,11966,4,0,0,0,4,1,No
+EMP1199,Manufacturing Director,Yes,18052,5,12,6,2,3,3,No
+EMP1200,Healthcare Representative,No,10377,3,8,0,8,3,1,No
+EMP1201,Healthcare Representative,No,9390,3,4,4,0,2,3,No
+EMP1202,Laboratory Technician,Yes,2353,1,18,9,3,1,4,Yes
+EMP1203,Manager,Yes,19769,4,12,8,1,1,1,Yes
+EMP1204,Manager,Yes,19026,5,5,5,5,2,2,No
+EMP1205,Human Resources,No,3680,1,3,3,0,2,1,Yes
+EMP1206,Healthcare Representative,Yes,8460,2,8,0,0,2,4,No
+EMP1207,Manager,No,17277,4,6,5,3,4,3,No
+EMP1208,Manufacturing Director,No,12625,4,19,1,4,1,1,Yes
+EMP1209,Manager,No,15229,5,1,1,0,3,2,Yes
+EMP1210,Manager,Yes,16880,4,7,7,5,1,1,Yes
+EMP1211,Manufacturing Director,No,11997,5,1,1,1,3,2,No
+EMP1212,Manager,No,19500,5,16,8,8,1,3,No
+EMP1213,Manufacturing Director,No,15179,5,10,5,8,4,1,No
+EMP1214,Manufacturing Director,Yes,15021,4,9,7,8,1,1,No
+EMP1215,Sales Representative,No,8647,2,6,6,0,1,4,No
+EMP1216,Manager,No,19523,4,3,3,3,4,2,No
+EMP1217,Manufacturing Director,No,15540,5,4,2,4,1,3,Yes
+EMP1218,Manufacturing Director,No,12522,4,20,0,1,1,1,No
+EMP1219,Research Director,No,16589,5,2,2,2,4,1,No
+EMP1220,Manager,No,11176,5,11,6,6,4,3,No
+EMP1221,Manufacturing Director,Yes,17638,5,2,1,2,2,2,No
+EMP1222,Research Scientist,No,3236,1,6,2,2,3,1,Yes
+EMP1223,Laboratory Technician,Yes,2725,1,15,8,3,2,1,Yes
+EMP1224,Laboratory Technician,No,3399,1,9,5,3,4,2,Yes
+EMP1225,Manager,Yes,19073,4,17,9,4,3,1,No
+EMP1226,Research Scientist,No,3471,1,4,4,3,2,4,No
+EMP1227,Sales Representative,No,6442,3,9,4,0,2,1,No
+EMP1228,Research Director,No,12750,5,3,3,0,3,1,No
+EMP1229,Laboratory Technician,Yes,3580,1,10,1,5,2,2,Yes
+EMP1230,Healthcare Representative,No,5063,3,5,5,0,4,2,No
+EMP1231,Sales Representative,No,7657,2,13,5,0,3,1,Yes
+EMP1232,Laboratory Technician,No,4820,1,4,4,4,4,1,No
+EMP1233,Manager,Yes,12002,5,20,3,3,4,3,No
+EMP1234,Manager,No,12057,4,19,4,8,2,2,No
+EMP1235,Sales Representative,No,7280,3,17,5,5,1,4,No
+EMP1236,Research Director,Yes,14031,4,4,4,3,1,1,No
+EMP1237,Manager,No,11677,5,6,4,1,4,4,No
+EMP1238,Manager,No,13467,5,5,5,4,2,3,No
+EMP1239,Sales Executive,No,6245,2,1,1,1,1,2,No
+EMP1240,Laboratory Technician,No,3398,1,18,0,7,4,4,No
+EMP1241,Manufacturing Director,No,12805,5,6,2,6,3,3,No
+EMP1242,Healthcare Representative,Yes,10244,2,18,10,0,2,3,Yes
+EMP1243,Manager,No,15684,4,1,1,0,1,2,Yes
+EMP1244,Sales Representative,No,10116,3,6,6,5,1,2,No
+EMP1245,Manager,Yes,16057,5,9,1,6,3,1,Yes
+EMP1246,Manufacturing Director,No,11329,5,9,9,8,3,1,No
+EMP1247,Manager,Yes,18582,5,8,1,3,2,4,No
+EMP1248,Research Scientist,No,2885,1,8,1,2,4,1,No
+EMP1249,Laboratory Technician,No,2661,1,1,1,1,1,2,Yes
+EMP1250,Manager,No,12223,5,8,7,1,2,4,Yes
+EMP1251,Manager,Yes,19828,5,10,4,0,2,1,Yes
+EMP1252,Sales Representative,No,9790,3,12,9,8,2,2,No
+EMP1253,Manager,No,18391,4,10,6,2,2,3,No
+EMP1254,Laboratory Technician,No,3871,1,8,1,4,1,2,No
+EMP1255,Manager,No,17318,4,9,8,4,3,1,No
+EMP1256,Research Scientist,No,2743,1,1,1,1,4,4,No
+EMP1257,Sales Representative,No,7233,3,2,2,2,1,1,Yes
+EMP1258,Manager,No,15034,4,2,2,1,3,1,No
+EMP1259,Sales Executive,No,7229,2,5,5,3,1,2,No
+EMP1260,Laboratory Technician,Yes,4531,1,3,3,3,4,2,No
+EMP1261,Research Scientist,No,3319,1,12,8,5,1,3,No
+EMP1262,Research Director,No,18799,4,12,10,6,2,2,No
+EMP1263,Manager,Yes,14017,5,10,3,3,4,4,No
+EMP1264,Sales Representative,No,7603,2,4,4,4,2,2,No
+EMP1265,Sales Representative,No,5832,3,1,1,0,3,1,No
+EMP1266,Manufacturing Director,No,18637,4,15,10,5,4,4,No
+EMP1267,Research Director,No,13658,5,1,1,0,4,1,No
+EMP1268,Healthcare Representative,Yes,7226,3,10,3,2,1,1,Yes
+EMP1269,Sales Executive,No,10307,3,12,2,8,2,1,No
+EMP1270,Manager,Yes,18496,5,10,7,3,2,1,No
+EMP1271,Manager,No,15253,5,1,1,0,3,2,No
+EMP1272,Healthcare Representative,No,9129,2,18,3,6,4,1,No
+EMP1273,Sales Executive,No,7687,3,13,10,6,1,4,Yes
+EMP1274,Manufacturing Director,No,19341,4,3,3,3,3,3,No
+EMP1275,Manager,Yes,13040,4,16,7,1,4,4,No
+EMP1276,Research Director,No,16295,5,12,4,7,4,2,Yes
+EMP1277,Healthcare Representative,No,7673,3,0,0,0,3,1,Yes
+EMP1278,Research Director,No,19198,5,10,2,6,1,3,No
+EMP1279,Research Director,No,17434,5,11,1,8,4,3,No
+EMP1280,Manufacturing Director,No,18034,5,6,0,6,3,2,No
+EMP1281,Laboratory Technician,No,3019,1,20,8,5,1,4,No
+EMP1282,Research Scientist,No,2717,1,3,3,3,2,2,No
+EMP1283,Manager,No,11289,5,5,5,4,2,4,No
+EMP1284,Healthcare Representative,Yes,5642,2,20,3,7,4,1,Yes
+EMP1285,Research Director,Yes,15990,4,1,1,1,4,4,Yes
+EMP1286,Manager,No,15236,4,2,2,0,4,1,No
+EMP1287,Research Director,No,17641,4,16,1,1,2,4,Yes
+EMP1288,Sales Representative,No,10200,3,7,5,4,3,2,No
+EMP1289,Healthcare Representative,No,9027,3,20,6,4,1,4,No
+EMP1290,Manufacturing Director,No,17611,4,6,4,0,4,1,Yes
+EMP1291,Research Director,No,14528,5,9,9,1,1,2,No
+EMP1292,Manager,Yes,18487,5,8,1,7,4,1,No
+EMP1293,Research Scientist,No,3888,1,0,0,0,3,1,No
+EMP1294,Research Director,No,16383,5,7,5,5,2,3,No
+EMP1295,Manager,No,11088,4,7,7,1,4,1,No
+EMP1296,Manufacturing Director,No,16469,4,5,5,5,1,2,No
+EMP1297,Healthcare Representative,Yes,9406,2,9,9,6,3,2,No
+EMP1298,Sales Executive,Yes,9887,2,7,7,4,3,3,No
+EMP1299,Healthcare Representative,No,9626,3,9,5,2,3,3,No
+EMP1300,Sales Representative,No,10450,3,4,4,0,1,3,Yes
+EMP1301,Sales Executive,Yes,8480,3,3,3,3,4,4,No
+EMP1302,Sales Executive,No,10101,3,15,7,0,3,4,Yes
+EMP1303,Healthcare Representative,No,8570,2,0,0,0,1,2,Yes
+EMP1304,Manufacturing Director,No,18754,5,8,6,3,4,4,Yes
+EMP1305,Sales Representative,Yes,10187,2,16,4,4,3,1,Yes
+EMP1306,Healthcare Representative,Yes,10253,3,6,1,5,4,1,No
+EMP1307,Laboratory Technician,No,4211,1,17,9,1,3,4,No
+EMP1308,Research Director,No,13988,4,2,1,2,4,3,No
+EMP1309,Sales Executive,No,6321,2,3,3,3,4,1,No
+EMP1310,Laboratory Technician,No,4662,1,1,1,1,2,4,No
+EMP1311,Research Director,No,19054,5,16,5,0,3,3,No
+EMP1312,Human Resources,Yes,2958,1,19,2,0,1,1,No
+EMP1313,Manager,Yes,12876,5,15,10,0,3,4,No
+EMP1314,Manufacturing Director,Yes,12353,5,17,8,5,2,2,Yes
+EMP1315,Manufacturing Director,Yes,17436,5,17,9,8,4,2,No
+EMP1316,Research Scientist,Yes,3687,1,18,4,1,3,3,No
+EMP1317,Healthcare Representative,Yes,4536,2,19,7,7,4,4,Yes
+EMP1318,Research Director,Yes,18888,4,13,10,4,1,3,No
+EMP1319,Manufacturing Director,Yes,18979,4,17,3,0,3,3,No
+EMP1320,Laboratory Technician,Yes,4187,1,3,3,0,3,4,No
+EMP1321,Research Director,No,13998,5,10,2,7,4,2,No
+EMP1322,Manufacturing Director,No,19816,4,20,8,1,3,4,No
+EMP1323,Research Director,No,15982,4,7,7,2,3,1,Yes
+EMP1324,Sales Representative,No,6884,3,10,9,1,4,4,No
+EMP1325,Laboratory Technician,No,4445,1,15,1,3,2,2,No
+EMP1326,Manufacturing Director,No,14344,5,6,6,6,2,2,No
+EMP1327,Sales Executive,No,6141,2,2,2,2,3,3,No
+EMP1328,Laboratory Technician,No,3613,1,6,6,0,4,3,Yes
+EMP1329,Research Scientist,No,4899,1,11,0,5,3,1,No
+EMP1330,Healthcare Representative,Yes,8846,2,16,9,4,2,3,No
+EMP1331,Sales Representative,Yes,5615,3,8,5,4,2,1,Yes
+EMP1332,Manufacturing Director,No,13071,5,13,2,1,2,3,No
+EMP1333,Manager,Yes,17263,5,9,8,1,4,3,No
+EMP1334,Research Director,No,16997,4,4,0,2,3,4,No
+EMP1335,Research Director,No,16984,4,3,3,3,4,4,No
+EMP1336,Healthcare Representative,No,8479,3,3,3,3,3,1,No
+EMP1337,Research Scientist,No,2340,1,18,1,3,1,3,Yes
+EMP1338,Healthcare Representative,No,7555,3,13,1,6,2,1,No
+EMP1339,Manufacturing Director,No,15458,4,3,3,0,2,4,No
+EMP1340,Sales Executive,No,10223,2,5,5,0,1,2,No
+EMP1341,Laboratory Technician,Yes,4995,1,10,8,0,4,3,No
+EMP1342,Manufacturing Director,No,14953,5,5,5,0,1,1,No
+EMP1343,Sales Representative,Yes,7164,3,8,3,1,3,1,Yes
+EMP1344,Manufacturing Director,Yes,19346,4,3,3,1,2,4,Yes
+EMP1345,Manufacturing Director,Yes,19518,4,16,8,3,2,4,No
+EMP1346,Manufacturing Director,No,15506,4,5,5,5,4,3,Yes
+EMP1347,Manager,No,17246,4,0,0,0,3,3,No
+EMP1348,Sales Representative,No,9235,3,8,3,7,1,3,No
+EMP1349,Laboratory Technician,No,3780,1,0,0,0,1,4,No
+EMP1350,Laboratory Technician,No,4035,1,5,5,5,1,4,No
+EMP1351,Manufacturing Director,No,13303,4,6,6,3,3,1,No
+EMP1352,Sales Representative,No,6496,3,11,2,7,3,2,No
+EMP1353,Healthcare Representative,No,10415,3,7,7,6,4,1,No
+EMP1354,Laboratory Technician,No,2805,1,16,4,7,2,1,No
+EMP1355,Sales Executive,No,9952,2,6,3,0,1,1,No
+EMP1356,Research Scientist,No,4406,1,9,6,2,1,4,No
+EMP1357,Sales Representative,No,5399,2,15,6,2,3,4,No
+EMP1358,Sales Representative,No,5698,2,10,8,1,4,1,No
+EMP1359,Research Director,No,18387,4,16,7,5,3,3,No
+EMP1360,Sales Executive,Yes,5439,3,1,0,1,4,3,No
+EMP1361,Sales Executive,Yes,6686,2,8,5,6,3,2,No
+EMP1362,Healthcare Representative,Yes,9912,3,10,5,6,1,4,No
+EMP1363,Research Director,No,16931,5,6,3,5,1,1,Yes
+EMP1364,Human Resources,No,2405,1,15,8,3,3,4,No
+EMP1365,Sales Representative,No,8953,3,5,5,5,4,4,No
+EMP1366,Sales Representative,No,5897,3,11,9,3,3,1,No
+EMP1367,Healthcare Representative,No,9768,3,17,2,6,3,3,No
+EMP1368,Sales Executive,No,10150,2,8,3,4,4,4,No
+EMP1369,Research Director,Yes,18439,4,14,4,2,3,1,Yes
+EMP1370,Manufacturing Director,No,12326,4,16,6,7,1,2,No
+EMP1371,Sales Executive,Yes,8242,2,9,1,8,4,4,No
+EMP1372,Research Director,Yes,14177,5,2,2,2,3,3,Yes
+EMP1373,Manager,No,13133,5,12,1,7,3,3,No
+EMP1374,Manufacturing Director,No,14455,5,15,7,4,1,4,No
+EMP1375,Healthcare Representative,Yes,6052,2,5,5,5,1,3,Yes
+EMP1376,Manager,No,13870,4,4,1,4,1,1,No
+EMP1377,Human Resources,No,3953,1,7,6,3,3,2,No
+EMP1378,Healthcare Representative,No,9834,2,3,3,3,4,1,No
+EMP1379,Research Scientist,No,4070,1,11,8,3,1,3,Yes
+EMP1380,Laboratory Technician,Yes,2950,1,13,10,3,3,4,Yes
+EMP1381,Manufacturing Director,Yes,13123,5,17,2,4,4,2,Yes
+EMP1382,Research Director,No,17821,4,19,9,4,3,4,No
+EMP1383,Sales Executive,No,6652,2,18,1,4,4,4,No
+EMP1384,Manager,No,15787,4,19,0,7,2,1,No
+EMP1385,Manager,No,16746,5,5,5,4,3,2,Yes
+EMP1386,Manager,No,15915,4,13,5,3,3,3,No
+EMP1387,Sales Executive,No,10252,2,13,0,4,2,4,Yes
+EMP1388,Manager,No,15701,4,2,2,2,4,4,No
+EMP1389,Manager,No,13318,5,0,0,0,1,3,Yes
+EMP1390,Manager,No,14082,4,17,4,5,3,4,No
+EMP1391,Sales Representative,No,6082,3,13,7,7,2,4,No
+EMP1392,Human Resources,No,4563,1,9,0,7,3,3,No
+EMP1393,Healthcare Representative,No,5521,3,1,1,1,4,1,Yes
+EMP1394,Sales Representative,No,6605,2,9,9,7,2,1,No
+EMP1395,Sales Executive,Yes,5256,3,7,6,1,2,3,Yes
+EMP1396,Research Director,Yes,12852,5,12,5,6,2,1,Yes
+EMP1397,Manager,No,14789,4,7,6,2,1,3,No
+EMP1398,Sales Executive,No,6558,2,2,2,2,3,4,No
+EMP1399,Sales Representative,No,6818,3,11,2,0,4,2,No
+EMP1400,Sales Executive,Yes,6727,3,5,5,2,4,4,No
+EMP1401,Manager,No,18262,5,5,3,5,2,1,No
+EMP1402,Sales Representative,Yes,7349,2,18,6,1,1,2,Yes
+EMP1403,Sales Executive,Yes,6250,3,2,2,2,3,3,Yes
+EMP1404,Manager,No,13989,5,3,3,3,3,3,No
+EMP1405,Sales Representative,Yes,7187,2,7,7,1,4,3,Yes
+EMP1406,Sales Executive,No,9599,3,20,3,0,2,4,No
+EMP1407,Sales Executive,No,5745,2,3,3,3,3,2,No
+EMP1408,Sales Representative,Yes,7033,3,2,2,2,4,4,No
+EMP1409,Manager,No,14697,5,5,3,5,2,1,Yes
+EMP1410,Research Director,Yes,19177,4,8,6,7,4,2,No
+EMP1411,Sales Representative,No,8755,2,19,7,3,4,3,No
+EMP1412,Healthcare Representative,Yes,5647,2,5,5,3,2,1,Yes
+EMP1413,Research Scientist,No,2269,1,17,0,4,4,3,No
+EMP1414,Laboratory Technician,No,2910,1,9,3,1,3,4,No
+EMP1415,Research Director,Yes,14997,5,15,7,3,3,4,No
+EMP1416,Research Scientist,Yes,2778,1,19,6,1,4,1,Yes
+EMP1417,Sales Executive,Yes,6659,3,4,1,4,3,4,No
+EMP1418,Manager,Yes,15219,5,15,7,2,4,3,No
+EMP1419,Manager,No,17758,5,19,7,7,2,4,No
+EMP1420,Manager,No,11491,4,3,3,1,1,2,No
+EMP1421,Manufacturing Director,No,16588,5,15,3,3,2,3,Yes
+EMP1422,Research Director,Yes,12741,5,11,9,4,1,3,No
+EMP1423,Sales Executive,No,8231,3,9,3,2,2,1,Yes
+EMP1424,Manager,No,18917,5,9,9,2,1,3,Yes
+EMP1425,Research Scientist,No,3257,1,12,7,1,1,3,No
+EMP1426,Laboratory Technician,Yes,4442,1,1,1,1,2,2,Yes
+EMP1427,Manager,No,15092,5,18,10,6,2,3,No
+EMP1428,Manufacturing Director,Yes,12228,5,13,4,0,3,3,Yes
+EMP1429,Research Scientist,No,3853,1,1,1,1,3,1,No
+EMP1430,Manufacturing Director,No,18453,4,2,2,2,4,4,No
+EMP1431,Healthcare Representative,No,5859,2,1,1,1,4,4,No
+EMP1432,Research Scientist,No,3406,1,14,6,0,3,1,Yes
+EMP1433,Research Scientist,Yes,3160,1,5,5,2,4,2,Yes
+EMP1434,Research Director,No,17477,4,7,5,2,1,2,No
+EMP1435,Sales Executive,No,5676,2,7,7,4,4,3,Yes
+EMP1436,Manager,No,12023,5,15,3,4,4,1,No
+EMP1437,Manager,Yes,11600,5,16,3,1,2,4,Yes
+EMP1438,Healthcare Representative,No,5300,2,4,4,4,2,4,No
+EMP1439,Human Resources,No,4516,1,0,0,0,1,4,No
+EMP1440,Research Scientist,No,4217,1,10,5,4,3,3,No
+EMP1441,Research Director,No,15863,5,4,0,4,2,2,No
+EMP1442,Manager,No,16382,5,12,0,1,2,1,No
+EMP1443,Manager,Yes,16460,4,5,1,5,2,4,No
+EMP1444,Healthcare Representative,No,5097,3,17,9,0,3,4,No
+EMP1445,Sales Executive,No,7199,3,1,1,1,1,3,No
+EMP1446,Manager,Yes,13796,4,9,2,6,2,1,No
+EMP1447,Research Scientist,Yes,2935,1,12,1,5,2,3,No
+EMP1448,Research Director,No,13700,5,12,2,4,4,4,No
+EMP1449,Healthcare Representative,No,9980,2,3,1,3,4,3,Yes
+EMP1450,Manufacturing Director,No,18587,4,7,7,7,2,3,Yes
+EMP1451,Sales Executive,No,8609,3,2,1,0,3,2,No
+EMP1452,Sales Executive,No,9534,2,3,3,3,2,2,No
+EMP1453,Laboratory Technician,No,2546,1,17,0,3,3,2,Yes
+EMP1454,Manager,Yes,17226,4,12,9,6,1,2,Yes
+EMP1455,Healthcare Representative,No,9125,2,15,0,6,3,1,No
+EMP1456,Sales Executive,Yes,7560,3,6,3,3,4,2,Yes
+EMP1457,Manufacturing Director,Yes,11016,4,15,9,2,4,2,Yes
+EMP1458,Manufacturing Director,No,14369,5,5,1,2,2,4,No
+EMP1459,Research Scientist,Yes,3916,1,4,4,4,4,1,No
+EMP1460,Manager,Yes,17791,4,10,7,3,4,4,No
+EMP1461,Research Scientist,No,2683,1,5,3,5,3,1,Yes
+EMP1462,Research Scientist,No,2731,1,20,7,0,3,3,Yes
+EMP1463,Healthcare Representative,Yes,5456,2,1,1,1,2,2,Yes
+EMP1464,Manufacturing Director,No,17157,4,19,2,6,2,4,No
+EMP1465,Manager,No,16594,5,9,7,6,2,2,No
+EMP1466,Manager,No,14083,5,16,9,2,4,4,No
+EMP1467,Manager,No,18808,4,0,0,0,2,2,Yes
+EMP1468,Sales Representative,No,8033,3,5,5,5,1,2,No
+EMP1469,Research Director,No,15914,5,6,1,6,3,4,No
+EMP1470,Research Director,No,15646,5,15,7,7,1,4,No

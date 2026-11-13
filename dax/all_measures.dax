@@ -1,0 +1,55 @@
+// =================================================================================
+// HR WORKFORCE & ATTRITION INTELLIGENCE - DAX MEASURES
+// Table: _Measures
+// =================================================================================
+
+// Total Employee Headcount
+Total Employees = COUNTROWS(Fact_Attrition)
+
+// Total Exited Employees (Attrition Count)
+Attrition Count = 
+CALCULATE(
+    COUNTROWS(Fact_Attrition),
+    Fact_Attrition[Attrition] = "Yes"
+)
+
+// Active Employee Headcount
+Active Employees = 
+CALCULATE(
+    COUNTROWS(Fact_Attrition),
+    Fact_Attrition[Attrition] = "No"
+)
+
+// Overall Attrition Rate %
+Attrition Rate % = 
+DIVIDE([Attrition Count], [Total Employees], 0)
+
+// Average Monthly Income
+Avg Monthly Income = 
+AVERAGE(Fact_Attrition[MonthlyIncome])
+
+// Average Tenure with Company (Years)
+Avg Tenure Years = 
+AVERAGE(Fact_Attrition[YearsAtCompany])
+
+// OverTime Attrition Rate %
+OverTime Attrition Rate % = 
+VAR OT_Attrition = CALCULATE([Attrition Count], Fact_Attrition[OverTime] = "Yes")
+VAR OT_Total = CALCULATE([Total Employees], Fact_Attrition[OverTime] = "Yes")
+RETURN
+    DIVIDE(OT_Attrition, OT_Total, 0)
+
+// Non-OverTime Attrition Rate %
+Non-OverTime Attrition Rate % = 
+VAR NonOT_Attrition = CALCULATE([Attrition Count], Fact_Attrition[OverTime] = "No")
+VAR NonOT_Total = CALCULATE([Total Employees], Fact_Attrition[OverTime] = "No")
+RETURN
+    DIVIDE(NonOT_Attrition, NonOT_Total, 0)
+
+// Dynamic Title based on Department Slicer
+Dynamic Dept Header = 
+IF(
+    ISFILTERED(Dim_JobRole[Department]),
+    "Workforce Metrics for: " & SELECTEDVALUE(Dim_JobRole[Department]),
+    "Enterprise-Wide Workforce & Retention Overview"
+)
