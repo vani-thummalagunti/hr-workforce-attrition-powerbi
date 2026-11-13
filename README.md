@@ -1,9 +1,12 @@
 # 👥 HR Workforce & Employee Attrition Intelligence Dashboard
 
 [![Power BI](https://img.shields.io/badge/Power_BI_Desktop-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+[![Live Interactive Dashboard](https://img.shields.io/badge/Live_Dashboard-Click_Here-0C831F?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vani-thummalagunti.github.io/hr-workforce-attrition-powerbi/)
 [![DAX](https://img.shields.io/badge/DAX-Calculations-blue?style=for-the-badge)](./dax/all_measures.dax)
 [![Power Query](https://img.shields.io/badge/Power_Query-M_Code-teal?style=for-the-badge)](./powerquery/etl_transformations.m)
 [![Author](https://img.shields.io/badge/Author-Vani_Thummalagunti-purple?style=for-the-badge)](https://github.com/vani-thummalagunti)
+
+> 🔗 **[Click here to view the Live Interactive Dashboard in your browser](https://vani-thummalagunti.github.io/hr-workforce-attrition-powerbi/)**
 
 An end-to-end Human Resources business intelligence solution developed in **Microsoft Power BI Desktop** to diagnose voluntary turnover, evaluate workforce retention factors, and identify flight risk drivers across 1,470 employee records.
 

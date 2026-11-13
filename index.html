@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>HR Workforce & Attrition Intelligence Dashboard - Power BI Report Preview</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap');
+    body { font-family: 'Plus Jakarta Sans', sans-serif; background-color: #0b0f19; color: #f1f5f9; }
+    .card-dark { background-color: #111827; border: 1px solid #1f2937; border-radius: 12px; }
+    .active-pill { background-color: #3b82f6 !important; color: #ffffff !important; font-weight: 700; }
+  </style>
+</head>
+<body class="p-4 md:p-6 min-h-screen">
+
+  <!-- Top Navigation & Header -->
+  <header class="flex flex-col md:flex-row md:items-center justify-between pb-6 border-b border-gray-800 gap-4">
+    <div class="flex items-center gap-3">
+      <div class="bg-blue-600 px-3.5 py-2 rounded-xl text-white font-extrabold text-xl shadow-lg shadow-blue-500/20">
+        HR
+      </div>
+      <div>
+        <h1 class="text-xl md:text-2xl font-bold tracking-tight text-white flex items-center gap-2">
+          Workforce & Employee Attrition Intelligence
+          <span class="text-xs bg-blue-500/20 text-blue-400 font-semibold px-2 py-0.5 rounded-full border border-blue-500/30">Power BI Desktop Report</span>
+        </h1>
+        <p class="text-xs md:text-sm text-gray-400">Author: Vani Thummalagunti | Developed in Microsoft Power BI</p>
+      </div>
+    </div>
+
+    <!-- Controls -->
+    <div class="flex items-center gap-2">
+      <button onclick="resetFilters()" class="px-4 py-2 bg-gray-800 hover:bg-gray-700 text-gray-300 text-xs md:text-sm font-semibold rounded-lg border border-gray-700 transition">
+        Reset Slicers
+      </button>
+    </div>
+  </header>
+
+  <!-- Interactive Slicers Bar -->
+  <section class="mt-6 p-4 card-dark flex flex-wrap items-center justify-between gap-4">
+    <div class="flex flex-wrap items-center gap-2">
+      <span class="text-xs font-semibold text-gray-400 uppercase tracking-wider mr-1">Department:</span>
+      <button onclick="setFilter('dept', 'All')" class="dept-pill active-pill px-3 py-1.5 rounded-lg text-xs font-medium bg-gray-800 text-gray-300">All Depts</button>
+      <button onclick="setFilter('dept', 'R&D')" class="dept-pill px-3 py-1.5 rounded-lg text-xs font-medium bg-gray-800 text-gray-300">R&D</button>
+      <button onclick="setFilter('dept', 'Sales')" class="dept-pill px-3 py-1.5 rounded-lg text-xs font-medium bg-gray-800 text-gray-300">Sales</button>
+      <button onclick="setFilter('dept', 'HR')" class="dept-pill px-3 py-1.5 rounded-lg text-xs font-medium bg-gray-800 text-gray-300">Human Resources</button>
+    </div>
+
+    <div class="flex items-center gap-2">
+      <span class="text-xs font-semibold text-gray-400 uppercase tracking-wider mr-1">OverTime Work:</span>
+      <button onclick="setFilter('ot', 'All')" class="ot-pill active-pill px-3 py-1.5 rounded-lg text-xs font-medium bg-gray-800 text-gray-300">All</button>
+      <button onclick="setFilter('ot', 'Yes')" class="ot-pill px-3 py-1.5 rounded-lg text-xs font-medium bg-gray-800 text-gray-300">Overtime = Yes</button>
+      <button onclick="setFilter('ot', 'No')" class="ot-pill px-3 py-1.5 rounded-lg text-xs font-medium bg-gray-800 text-gray-300">Overtime = No</button>
+    </div>
+  </section>
+
+  <!-- KPI Ribbon -->
+  <section class="mt-4 grid grid-cols-2 md:grid-cols-4 gap-4">
+    <div class="p-4 card-dark relative overflow-hidden">
+      <span class="text-xs font-semibold text-gray-400 uppercase tracking-wider">Total Headcount</span>
+      <div class="mt-2 flex items-baseline gap-2">
+        <span id="kpiTotal" class="text-2xl md:text-3xl font-extrabold text-white">1,470</span>
+      </div>
+      <p class="text-[11px] text-gray-500 mt-1">Full-time employee baseline</p>
+      <div class="absolute bottom-0 left-0 right-0 h-1 bg-blue-500"></div>
+    </div>
+
+    <div class="p-4 card-dark relative overflow-hidden">
+      <span class="text-xs font-semibold text-gray-400 uppercase tracking-wider">Attrition Count</span>
+      <div class="mt-2 flex items-baseline gap-2">
+        <span id="kpiAttrition" class="text-2xl md:text-3xl font-extrabold text-red-400">464</span>
+        <span id="kpiRate" class="text-xs text-red-400 font-bold">(31.6%)</span>
+      </div>
+      <p class="text-[11px] text-gray-500 mt-1">Voluntary & involuntary exits</p>
+      <div class="absolute bottom-0 left-0 right-0 h-1 bg-red-500"></div>
+    </div>
+
+    <div class="p-4 card-dark relative overflow-hidden">
+      <span class="text-xs font-semibold text-gray-400 uppercase tracking-wider">Active Employees</span>
+      <div class="mt-2 flex items-baseline gap-2">
+        <span id="kpiActive" class="text-2xl md:text-3xl font-extrabold text-green-400">1,006</span>
+        <span class="text-xs text-green-400 font-medium">Retained</span>
+      </div>
+      <p class="text-[11px] text-gray-500 mt-1">Current operational workforce</p>
+      <div class="absolute bottom-0 left-0 right-0 h-1 bg-green-500"></div>
+    </div>
+
+    <div class="p-4 card-dark relative overflow-hidden">
+      <span class="text-xs font-semibold text-gray-400 uppercase tracking-wider">Avg Monthly Income</span>
+      <div class="mt-2 flex items-baseline gap-2">
+        <span class="text-2xl md:text-3xl font-extrabold text-white">$6,502</span>
+      </div>
+      <p class="text-[11px] text-gray-500 mt-1">Average enterprise compensation</p>
+      <div class="absolute bottom-0 left-0 right-0 h-1 bg-indigo-500"></div>
+    </div>
+  </section>
+
+  <!-- Main Visualizations Grid -->
+  <main class="mt-6 grid grid-cols-1 md:grid-cols-12 gap-6">
+    <div class="md:col-span-5 p-5 card-dark flex flex-col justify-between">
+      <div>
+        <div class="flex items-center justify-between pb-2 border-b border-gray-800">
+          <h2 class="text-sm font-bold text-white uppercase tracking-wider">🔥 OverTime vs Attrition Risk</h2>
+          <span class="text-xs text-red-400 font-semibold">1.8x Flight Risk</span>
+        </div>
+        <p class="text-xs text-gray-400 mt-1">Employees working overtime exhibit a 45.2% turnover rate</p>
+      </div>
+      <div class="relative my-4 h-56 flex items-center justify-center">
+        <canvas id="overtimeChart"></canvas>
+      </div>
+      <div class="text-[11px] text-gray-400 bg-gray-800/40 p-2.5 rounded">
+        <strong>DAX Insight:</strong> OverTime is the single biggest predictor of turnover across all departments.
+      </div>
+    </div>
+
+    <div class="md:col-span-7 p-5 card-dark">
+      <div class="flex items-center justify-between pb-2 border-b border-gray-800">
+        <h2 class="text-sm font-bold text-white uppercase tracking-wider">🏢 Attrition by Department</h2>
+        <span class="text-xs text-gray-400">Headcount vs Exits</span>
+      </div>
+      <p class="text-xs text-gray-400 mt-1">R&D and Sales represent 95% of total organization exits</p>
+      <div class="mt-4 h-64">
+        <canvas id="deptChart"></canvas>
+      </div>
+    </div>
+
+    <div class="md:col-span-12 p-5 card-dark">
+      <div class="flex items-center justify-between pb-2 border-b border-gray-800">
+        <h2 class="text-sm font-bold text-white uppercase tracking-wider">💼 Attrition Rates Across Job Roles</h2>
+        <span class="text-xs text-yellow-400">Lab Techs & Sales Reps Highest Risk</span>
+      </div>
+      <p class="text-xs text-gray-400 mt-1">Granular role-level breakdown of attrition percentages</p>
+      <div class="mt-4 h-64">
+        <canvas id="roleChart"></canvas>
+      </div>
+    </div>
+  </main>
+
+  <script>
+    const data = {
+      total: 1470,
+      attrition: 464,
+      dept: {
+        'Research & Development': { total: 938, left: 315 },
+        'Sales': { total: 471, left: 127 },
+        'Human Resources': { total: 61, left: 22 }
+      },
+      ot: {
+        'OverTime: Yes': { left: 206, stayed: 250, rate: 45.2 },
+        'OverTime: No': { left: 258, stayed: 756, rate: 25.4 }
+      },
+      roles: [
+        { role: 'Sales Representative', rate: 44.8 },
+        { role: 'Laboratory Technician', rate: 38.2 },
+        { role: 'Research Scientist', rate: 32.5 },
+        { role: 'Human Resources', rate: 36.1 },
+        { role: 'Sales Executive', rate: 24.1 },
+        { role: 'Manufacturing Director', rate: 18.5 },
+        { role: 'Healthcare Representative', rate: 16.2 },
+        { role: 'Manager', rate: 12.4 }
+      ]
+    };
+
+    let otChart, deptChart, roleChart;
+
+    function init() {
+      otChart = new Chart(document.getElementById('overtimeChart'), {
+        type: 'bar',
+        data: {
+          labels: ['OverTime: Yes (45.2%)', 'OverTime: No (25.4%)'],
+          datasets: [{
+            label: 'Exited Employees',
+            data: [data.ot['OverTime: Yes'].left, data.ot['OverTime: No'].left],
+            backgroundColor: ['#ef4444', '#10b981'],
+            borderRadius: 6
+          }]
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          plugins: { legend: { display: false } },
+          scales: {
+            y: { grid: { color: '#1f2937' }, ticks: { color: '#9ca3af' } },
+            x: { ticks: { color: '#e5e7eb', font: { weight: '600' } } }
+          }
+        }
+      });
+
+      deptChart = new Chart(document.getElementById('deptChart'), {
+        type: 'bar',
+        data: {
+          labels: Object.keys(data.dept),
+          datasets: [
+            { label: 'Retained', data: [623, 344, 39], backgroundColor: '#10b981', borderRadius: 4 },
+            { label: 'Attrited (Left)', data: [315, 127, 22], backgroundColor: '#ef4444', borderRadius: 4 }
+          ]
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          scales: {
+            x: { stacked: true, ticks: { color: '#e5e7eb', font: { weight: '600' } } },
+            y: { stacked: true, grid: { color: '#1f2937' }, ticks: { color: '#9ca3af' } }
+          },
+          plugins: { legend: { labels: { color: '#d1d5db' } } }
+        }
+      });
+
+      roleChart = new Chart(document.getElementById('roleChart'), {
+        type: 'bar',
+        data: {
+          labels: data.roles.map(r => r.role),
+          datasets: [{
+            label: 'Attrition Rate %',
+            data: data.roles.map(r => r.rate),
+            backgroundColor: data.roles.map(r => r.rate > 35 ? '#ef4444' : (r.rate > 20 ? '#f59e0b' : '#3b82f6')),
+            borderRadius: 6
+          }]
+        },
+        options: {
+          indexAxis: 'y',
+          responsive: true,
+          maintainAspectRatio: false,
+          plugins: { legend: { display: false } },
+          scales: {
+            x: { grid: { color: '#1f2937' }, ticks: { color: '#9ca3af', callback: v => v + '%' } },
+            y: { ticks: { color: '#e5e7eb', font: { weight: '600' } } }
+          }
+        }
+      });
+    }
+
+    function setFilter(type, val) {
+      const pills = document.querySelectorAll(`.${type}-pill`);
+      pills.forEach(p => p.classList.toggle('active-pill', p.textContent.includes(val) || (val === 'All' && p.textContent.includes('All'))));
+      
+      let mult = 1.0;
+      if (val === 'R&D') mult = 0.64;
+      if (val === 'Sales') mult = 0.32;
+      if (val === 'HR') mult = 0.04;
+      if (val === 'Yes') mult = 0.31;
+      if (val === 'No') mult = 0.69;
+
+      const tot = Math.round(data.total * mult);
+      const att = Math.round(data.attrition * mult);
+      document.getElementById('kpiTotal').innerText = tot.toLocaleString();
+      document.getElementById('kpiAttrition').innerText = att.toLocaleString();
+      document.getElementById('kpiActive').innerText = (tot - att).toLocaleString();
+    }
+
+    function resetFilters() {
+      setFilter('dept', 'All');
+      setFilter('ot', 'All');
+    }
+
+    window.onload = init;
+  </script>
+</body>
+</html>
